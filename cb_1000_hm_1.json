@@ -3,600 +3,1233 @@
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/author_cb_1000_it.json",
     "total": 1926,
     "index": 100,
-    "id_item": "author_cb_1000_it"
+    "id_item": "author_cb_1000_it",
+    "english": "author",
+    "list_vietnam": [
+      "tác giả"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/availability_cb_1000_it.json",
     "total": 1926,
     "index": 101,
-    "id_item": "availability_cb_1000_it"
+    "id_item": "availability_cb_1000_it",
+    "english": "availability",
+    "list_vietnam": [
+      "tính sẵn sàng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/avalanche_cb_1000_it.json",
     "total": 1926,
     "index": 102,
-    "id_item": "avalanche_cb_1000_it"
+    "id_item": "avalanche_cb_1000_it",
+    "english": "avalanche",
+    "list_vietnam": [
+      "tuyết lở"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/average_cb_1000_it.json",
     "total": 1926,
     "index": 103,
-    "id_item": "average_cb_1000_it"
+    "id_item": "average_cb_1000_it",
+    "english": "average",
+    "list_vietnam": [
+      "trung bình",
+      "trung bình",
+      "theo chuẩn mực thông thường",
+      "tính trung bình"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/avoid_cb_1000_it.json",
     "total": 1926,
     "index": 104,
-    "id_item": "avoid_cb_1000_it"
+    "id_item": "avoid_cb_1000_it",
+    "english": "avoid",
+    "list_vietnam": [
+      "tránh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/awake_cb_1000_it.json",
     "total": 1926,
     "index": 105,
-    "id_item": "awake_cb_1000_it"
+    "id_item": "awake_cb_1000_it",
+    "english": "awake",
+    "list_vietnam": [
+      "thức giấc",
+      "thức"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/away_cb_1000_it.json",
     "total": 1926,
     "index": 106,
-    "id_item": "away_cb_1000_it"
+    "id_item": "away_cb_1000_it",
+    "english": "away",
+    "list_vietnam": [
+      "xa",
+      "tránh xa",
+      "mất",
+      "liên tục",
+      "bên sân đối phương"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/axis_cb_1000_it.json",
     "total": 1926,
     "index": 107,
-    "id_item": "axis_cb_1000_it"
+    "id_item": "axis_cb_1000_it",
+    "english": "axis",
+    "list_vietnam": [
+      "trục",
+      "trục đồ thị"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/babysitter_cb_1000_it.json",
     "total": 1926,
     "index": 108,
-    "id_item": "babysitter_cb_1000_it"
+    "id_item": "babysitter_cb_1000_it",
+    "english": "babysitter",
+    "list_vietnam": [
+      "người giữ trẻ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/baby_cb_1000_it.json",
     "total": 1926,
     "index": 109,
-    "id_item": "baby_cb_1000_it"
+    "id_item": "baby_cb_1000_it",
+    "english": "baby",
+    "list_vietnam": [
+      "trẻ nhỏ",
+      "con"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/backbone_cb_1000_it.json",
     "total": 1926,
     "index": 110,
-    "id_item": "backbone_cb_1000_it"
+    "id_item": "backbone_cb_1000_it",
+    "english": "backbone",
+    "list_vietnam": [
+      "xương sống",
+      "trụ cột"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/back_cb_1000_it.json",
     "total": 1926,
     "index": 111,
-    "id_item": "back_cb_1000_it"
+    "id_item": "back_cb_1000_it",
+    "english": "back",
+    "list_vietnam": [
+      "cái lưng",
+      "lưng động vật",
+      "đằng sau",
+      "hậu vệ",
+      "đằng sau",
+      "trở lại",
+      "cách xa",
+      "quay trở lại",
+      "phản ứng lại",
+      "nghĩ lại",
+      "lùi",
+      "ủng hộ",
+      "đánh cuộc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bad-tempered_cb_1000_it.json",
     "total": 1926,
     "index": 112,
-    "id_item": "bad-tempered_cb_1000_it"
+    "id_item": "bad-tempered_cb_1000_it",
+    "english": "bad-tempered",
+    "list_vietnam": [
+      "dễ nổi nóng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/badger_cb_1000_it.json",
     "total": 1926,
     "index": 113,
-    "id_item": "badger_cb_1000_it"
+    "id_item": "badger_cb_1000_it",
+    "english": "badger",
+    "list_vietnam": [
+      "con lửng",
+      "làm phiền"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bad_cb_1000_it.json",
     "total": 1926,
     "index": 114,
-    "id_item": "bad_cb_1000_it"
+    "id_item": "bad_cb_1000_it",
+    "english": "bad",
+    "list_vietnam": [
+      "xấu; dở; tồi",
+      "ác; xấu",
+      "khó chịu",
+      "thiu; hỏng",
+      "có hại",
+      "đau yếu",
+      "không khoẻ",
+      "nghiêm trọng",
+      "nợ khó đòi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bag_cb_1000_it.json",
     "total": 1926,
     "index": 115,
-    "id_item": "bag_cb_1000_it"
+    "id_item": "bag_cb_1000_it",
+    "english": "bag",
+    "list_vietnam": [
+      "túi",
+      "mẻ săn",
+      "bỏ vào túi",
+      "săn được"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/balcony_cb_1000_it.json",
     "total": 1926,
     "index": 116,
-    "id_item": "balcony_cb_1000_it"
+    "id_item": "balcony_cb_1000_it",
+    "english": "balcony",
+    "list_vietnam": [
+      "ban công",
+      "hàng ghế trên ban công nhà hát"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/ball_cb_1000_it.json",
     "total": 1926,
     "index": 117,
-    "id_item": "ball_cb_1000_it"
+    "id_item": "ball_cb_1000_it",
+    "english": "ball",
+    "list_vietnam": [
+      "quả bóng",
+      "cuộn",
+      "tinh hoàn",
+      "buổi khiêu vũ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/band_cb_1000_it.json",
     "total": 1926,
     "index": 118,
-    "id_item": "band_cb_1000_it"
+    "id_item": "band_cb_1000_it",
+    "english": "band",
+    "list_vietnam": [
+      "đai, nẹp",
+      "dải băng; đường kẻ",
+      "làn sóng",
+      "toán; tốp",
+      "ban nhạc",
+      "tụ thành một nhóm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bank_cb_1000_it.json",
     "total": 1926,
     "index": 119,
-    "id_item": "bank_cb_1000_it"
+    "id_item": "bank_cb_1000_it",
+    "english": "bank",
+    "list_vietnam": [
+      "bờ (sông)",
+      "đống",
+      "bãi ngầm",
+      "chất đống",
+      "nghiêng đi",
+      "ngân hàng",
+      "kho lưu giữ",
+      "gửi tiền vào ngân hàng",
+      "hàng loạt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/barber_cb_1000_it.json",
     "total": 1926,
     "index": 120,
-    "id_item": "barber_cb_1000_it"
+    "id_item": "barber_cb_1000_it",
+    "english": "barber",
+    "list_vietnam": [
+      "thợ cắt tóc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bar_cb_1000_it.json",
     "total": 1926,
     "index": 121,
-    "id_item": "bar_cb_1000_it"
+    "id_item": "bar_cb_1000_it",
+    "english": "bar",
+    "list_vietnam": [
+      "thanh; chấn song",
+      "đường kẻ",
+      "cái chốt cửa",
+      "quầy hàng",
+      "quầy bán rượu",
+      "nhịp",
+      "sự cản trở",
+      "vành móng ngựa",
+      "cài",
+      "cấm cửa",
+      "ngăn cản",
+      "trừ ra"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/baseball_cb_1000_it.json",
     "total": 1926,
     "index": 122,
-    "id_item": "baseball_cb_1000_it"
+    "id_item": "baseball_cb_1000_it",
+    "english": "baseball",
+    "list_vietnam": [
+      "bóng chày"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/base_cb_1000_it.json",
     "total": 1926,
     "index": 123,
-    "id_item": "base_cb_1000_it"
+    "id_item": "base_cb_1000_it",
+    "english": "base",
+    "list_vietnam": [
+      "đáy; chân đế",
+      "thành phần chủ yếu",
+      "căn cứ",
+      "có trụ sở ở; căn cứ vào",
+      "hèn hạ; kém giá trị"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/basic_cb_1000_it.json",
     "total": 1926,
     "index": 124,
-    "id_item": "basic_cb_1000_it"
+    "id_item": "basic_cb_1000_it",
+    "english": "basic",
+    "list_vietnam": [
+      "cơ bản",
+      "mức độ đơn giản nhất"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bath_cb_1000_it.json",
     "total": 1926,
     "index": 125,
-    "id_item": "bath_cb_1000_it"
+    "id_item": "bath_cb_1000_it",
+    "english": "bath",
+    "list_vietnam": [
+      "bồn tắm",
+      "sự tắm rửa",
+      "bình chứa dung dịch hóa chất",
+      "tắm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/battery_cb_1000_it.json",
     "total": 1926,
     "index": 126,
-    "id_item": "battery_cb_1000_it"
+    "id_item": "battery_cb_1000_it",
+    "english": "battery",
+    "list_vietnam": [
+      "pin; ắc quy",
+      "khẩu đội pháo",
+      "một chuỗi…",
+      "dãy chuồng nuôi gà"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bat_cb_1000_it.json",
     "total": 1926,
     "index": 127,
-    "id_item": "bat_cb_1000_it"
+    "id_item": "bat_cb_1000_it",
+    "english": "bat",
+    "list_vietnam": [
+      "gậy bóng chày; vợt (bóng bàn)",
+      "thi đấu",
+      "đánh bằng gậy bóng chày",
+      "con dơi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beard_cb_1000_it.json",
     "total": 1926,
     "index": 128,
-    "id_item": "beard_cb_1000_it"
+    "id_item": "beard_cb_1000_it",
+    "english": "beard",
+    "list_vietnam": [
+      "râu",
+      "ngạnh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bear_cb_1000_it.json",
     "total": 1926,
     "index": 129,
-    "id_item": "bear_cb_1000_it"
+    "id_item": "bear_cb_1000_it",
+    "english": "bear",
+    "list_vietnam": [
+      "chịu đựng",
+      "chống đỡ",
+      "sinh",
+      "mang vác",
+      "sở hữu",
+      "rẽ về",
+      "con gấu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beat_cb_1000_it.json",
     "total": 1926,
     "index": 130,
-    "id_item": "beat_cb_1000_it"
+    "id_item": "beat_cb_1000_it",
+    "english": "beat",
+    "list_vietnam": [
+      "đập; nện",
+      "đánh bại ai",
+      "đánh tơi; khuấy",
+      "đập (nói về tim)",
+      "đánh dấu",
+      "hịp đánh",
+      "khu vực phân cho một viên cảnh sát"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beautifully_cb_1000_it.json",
     "total": 1926,
     "index": 131,
-    "id_item": "beautifully_cb_1000_it"
+    "id_item": "beautifully_cb_1000_it",
+    "english": "beautifully",
+    "list_vietnam": [
+      "đẹp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beautiful_cb_1000_it.json",
     "total": 1926,
     "index": 132,
-    "id_item": "beautiful_cb_1000_it"
+    "id_item": "beautiful_cb_1000_it",
+    "english": "beautiful",
+    "list_vietnam": [
+      "đẹp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beauty_cb_1000_it.json",
     "total": 1926,
     "index": 133,
-    "id_item": "beauty_cb_1000_it"
+    "id_item": "beauty_cb_1000_it",
+    "english": "beauty",
+    "list_vietnam": [
+      "vẻ đẹp",
+      "người đẹp",
+      "đẹp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beaver_cb_1000_it.json",
     "total": 1926,
     "index": 134,
-    "id_item": "beaver_cb_1000_it"
+    "id_item": "beaver_cb_1000_it",
+    "english": "beaver",
+    "list_vietnam": [
+      "con hải ly",
+      "lông hải ly"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/become_cb_1000_it.json",
     "total": 1926,
     "index": 135,
-    "id_item": "become_cb_1000_it"
+    "id_item": "become_cb_1000_it",
+    "english": "become",
+    "list_vietnam": [
+      "trở nên",
+      "trở thành",
+      "xảy đến",
+      "thích hợp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bed_cb_1000_it.json",
     "total": 1926,
     "index": 136,
-    "id_item": "bed_cb_1000_it"
+    "id_item": "bed_cb_1000_it",
+    "english": "bed",
+    "list_vietnam": [
+      "cái giường",
+      "đáy biển, sông, hồ",
+      "mảnh vườn",
+      "lớp",
+      "cử nhân giáo dục"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beetle_cb_1000_it.json",
     "total": 1926,
     "index": 137,
-    "id_item": "beetle_cb_1000_it"
+    "id_item": "beetle_cb_1000_it",
+    "english": "beetle",
+    "list_vietnam": [
+      "bọ cánh cứng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bee_cb_1000_it.json",
     "total": 1926,
     "index": 138,
-    "id_item": "bee_cb_1000_it"
+    "id_item": "bee_cb_1000_it",
+    "english": "bee",
+    "list_vietnam": [
+      "con ong",
+      "buổi lao động tập thể"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/befall_cb_1000_it.json",
     "total": 1926,
     "index": 139,
-    "id_item": "befall_cb_1000_it"
+    "id_item": "befall_cb_1000_it",
+    "english": "befall",
+    "list_vietnam": [
+      "xảy đến"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/before_cb_1000_it.json",
     "total": 1926,
     "index": 140,
-    "id_item": "before_cb_1000_it"
+    "id_item": "before_cb_1000_it",
+    "english": "before",
+    "list_vietnam": [
+      "sớm hơn",
+      "đằng trước",
+      "hơn; thà… còn hơn",
+      "trước đây",
+      "trước khi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/begin_cb_1000_it.json",
     "total": 1926,
     "index": 141,
-    "id_item": "begin_cb_1000_it"
+    "id_item": "begin_cb_1000_it",
+    "english": "begin",
+    "list_vietnam": [
+      "bắt đầu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/behind_cb_1000_it.json",
     "total": 1926,
     "index": 142,
-    "id_item": "behind_cb_1000_it"
+    "id_item": "behind_cb_1000_it",
+    "english": "behind",
+    "list_vietnam": [
+      "đằng sau",
+      "còn lại sau",
+      "ủng hộ",
+      "ở đằng sau",
+      "muộn; chậm",
+      "chậm trễ",
+      "mông đít"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/behold_cb_1000_it.json",
     "total": 1926,
     "index": 143,
-    "id_item": "behold_cb_1000_it"
+    "id_item": "behold_cb_1000_it",
+    "english": "behold",
+    "list_vietnam": [
+      "nhìn ngắm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/believe_cb_1000_it.json",
     "total": 1926,
     "index": 144,
-    "id_item": "believe_cb_1000_it"
+    "id_item": "believe_cb_1000_it",
+    "english": "believe",
+    "list_vietnam": [
+      "công nhận",
+      "tin tưởng",
+      "tưởng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/belly_cb_1000_it.json",
     "total": 1926,
     "index": 145,
-    "id_item": "belly_cb_1000_it"
+    "id_item": "belly_cb_1000_it",
+    "english": "belly",
+    "list_vietnam": [
+      "bụng; dạ dày"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bell_cb_1000_it.json",
     "total": 1926,
     "index": 146,
-    "id_item": "bell_cb_1000_it"
+    "id_item": "bell_cb_1000_it",
+    "english": "bell",
+    "list_vietnam": [
+      "cái chuông",
+      "chuông cửa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/belong_cb_1000_it.json",
     "total": 1926,
     "index": 147,
-    "id_item": "belong_cb_1000_it"
+    "id_item": "belong_cb_1000_it",
+    "english": "belong",
+    "list_vietnam": [
+      "thuộc quyền sở hữu",
+      "là hội viên của",
+      "có liên quan với"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bend_cb_1000_it.json",
     "total": 1926,
     "index": 148,
-    "id_item": "bend_cb_1000_it"
+    "id_item": "bend_cb_1000_it",
+    "english": "bend",
+    "list_vietnam": [
+      "cúi xuống; làm cong",
+      "bắt phải theo",
+      "chỗ uốn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/benefit_cb_1000_it.json",
     "total": 1926,
     "index": 149,
-    "id_item": "benefit_cb_1000_it"
+    "id_item": "benefit_cb_1000_it",
+    "english": "benefit",
+    "list_vietnam": [
+      "lợi ích",
+      "được lợi",
+      "làm lợi cho"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/beset_cb_1000_it.json",
     "total": 1926,
     "index": 150,
-    "id_item": "beset_cb_1000_it"
+    "id_item": "beset_cb_1000_it",
+    "english": "beset",
+    "list_vietnam": [
+      "bao vây"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/besides_cb_1000_it.json",
     "total": 1926,
     "index": 151,
-    "id_item": "besides_cb_1000_it"
+    "id_item": "besides_cb_1000_it",
+    "english": "besides",
+    "list_vietnam": [
+      "ngoài ra",
+      "hơn nữa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/best_cb_1000_it.json",
     "total": 1926,
     "index": 152,
-    "id_item": "best_cb_1000_it"
+    "id_item": "best_cb_1000_it",
+    "english": "best",
+    "list_vietnam": [
+      "tốt nhất; đẹp nhất",
+      "tốt nhất; hay nhất",
+      "đánh bại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/better_cb_1000_it.json",
     "total": 1926,
     "index": 153,
-    "id_item": "better_cb_1000_it"
+    "id_item": "better_cb_1000_it",
+    "english": "better",
+    "list_vietnam": [
+      "ốt hơn",
+      "khoẻ hơn",
+      "thích hợp hơn",
+      "tốt hơn",
+      "vật/ người tốt hơn",
+      "cải thiện"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/between_cb_1000_it.json",
     "total": 1926,
     "index": 154,
-    "id_item": "between_cb_1000_it"
+    "id_item": "between_cb_1000_it",
+    "english": "between",
+    "list_vietnam": [
+      "ở giữa",
+      "chỉ rõ sự liên quan",
+      "cùng nhau",
+      "giữa 2 người, 2 vật"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bet_cb_1000_it.json",
     "total": 1926,
     "index": 155,
-    "id_item": "bet_cb_1000_it"
+    "id_item": "bet_cb_1000_it",
+    "english": "bet",
+    "list_vietnam": [
+      "đánh cuộc",
+      "sự đánh cược",
+      "tiền cá độ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/be_cb_1000_it.json",
     "total": 1926,
     "index": 156,
-    "id_item": "be_cb_1000_it"
+    "id_item": "be_cb_1000_it",
+    "english": "be",
+    "list_vietnam": [
+      "đang",
+      "định; sẽ",
+      "đã",
+      "sắp; phải",
+      "dùng để nói về ai đó",
+      "cử nhân kỹ thuật"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bicycle_cb_1000_it.json",
     "total": 1926,
     "index": 157,
-    "id_item": "bicycle_cb_1000_it"
+    "id_item": "bicycle_cb_1000_it",
+    "english": "bicycle",
+    "list_vietnam": [
+      "xe đạp",
+      "đi xe đạp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bid_cb_1000_it.json",
     "total": 1926,
     "index": 158,
-    "id_item": "bid_cb_1000_it"
+    "id_item": "bid_cb_1000_it",
+    "english": "bid",
+    "list_vietnam": [
+      "đấu giá",
+      "dự thầu",
+      "bảo ai làm gì",
+      "nói lời chào",
+      "giá bỏ thầu",
+      "sự cố gắng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/big_cb_1000_it.json",
     "total": 1926,
     "index": 159,
-    "id_item": "big_cb_1000_it"
+    "id_item": "big_cb_1000_it",
+    "english": "big",
+    "list_vietnam": [
+      "to lớn",
+      "quan trọng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bill_cb_1000_it.json",
     "total": 1926,
     "index": 160,
-    "id_item": "bill_cb_1000_it"
+    "id_item": "bill_cb_1000_it",
+    "english": "bill",
+    "list_vietnam": [
+      "mỏ (chim)",
+      "hoá đơn",
+      "hối phiếu",
+      "tờ quảng cáo",
+      "lập hoá đơn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bind_cb_1000_it.json",
     "total": 1926,
     "index": 161,
-    "id_item": "bind_cb_1000_it"
+    "id_item": "bind_cb_1000_it",
+    "english": "bind",
+    "list_vietnam": [
+      "băng bó; trói",
+      "đóng (sách)",
+      "đi vào ngõ cụt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bin_cb_1000_it.json",
     "total": 1926,
     "index": 162,
-    "id_item": "bin_cb_1000_it"
+    "id_item": "bin_cb_1000_it",
+    "english": "bin",
+    "list_vietnam": [
+      "thùng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bird_cb_1000_it.json",
     "total": 1926,
     "index": 163,
-    "id_item": "bird_cb_1000_it"
+    "id_item": "bird_cb_1000_it",
+    "english": "bird",
+    "list_vietnam": [
+      "con chim"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bite_cb_1000_it.json",
     "total": 1926,
     "index": 164,
-    "id_item": "bite_cb_1000_it"
+    "id_item": "bite_cb_1000_it",
+    "english": "bite",
+    "list_vietnam": [
+      "cắn; châm đốt",
+      "sự cắn; sự châm đốt",
+      "sự cắn câu (cá)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bit_cb_1000_it.json",
     "total": 1926,
     "index": 165,
-    "id_item": "bit_cb_1000_it"
+    "id_item": "bit_cb_1000_it",
+    "english": "bit",
+    "list_vietnam": [
+      "miếng; mẩu",
+      "đoạn ngắn",
+      "một lát",
+      "con số nhị phân",
+      "hàm thiếc ngựa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/black_cb_1000_it.json",
     "total": 1926,
     "index": 166,
-    "id_item": "black_cb_1000_it"
+    "id_item": "black_cb_1000_it",
+    "english": "black",
+    "list_vietnam": [
+      "màu đen",
+      "tối",
+      "bẩn thỉu",
+      "không sữa",
+      "xấu xa",
+      "xúc phạm",
+      "bôi đen"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bladder_cb_1000_it.json",
     "total": 1926,
     "index": 167,
-    "id_item": "bladder_cb_1000_it"
+    "id_item": "bladder_cb_1000_it",
+    "english": "bladder",
+    "list_vietnam": [
+      "bàng quang"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/blame_cb_1000_it.json",
     "total": 1926,
     "index": 168,
-    "id_item": "blame_cb_1000_it"
+    "id_item": "blame_cb_1000_it",
+    "english": "blame",
+    "list_vietnam": [
+      "khiển trách",
+      "đổ lỗi",
+      "chịu trách nhiệm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/blanket_cb_1000_it.json",
     "total": 1926,
     "index": 169,
-    "id_item": "blanket_cb_1000_it"
+    "id_item": "blanket_cb_1000_it",
+    "english": "blanket",
+    "list_vietnam": [
+      "cái chăn",
+      "lớp phủ",
+      "bao trùm",
+      "che phủ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bleach_cb_1000_it.json",
     "total": 1926,
     "index": 170,
-    "id_item": "bleach_cb_1000_it"
+    "id_item": "bleach_cb_1000_it",
+    "english": "bleach",
+    "list_vietnam": [
+      "chất tẩy trắng",
+      "tẩy trắng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bleed_cb_1000_it.json",
     "total": 1926,
     "index": 171,
-    "id_item": "bleed_cb_1000_it"
+    "id_item": "bleed_cb_1000_it",
+    "english": "bleed",
+    "list_vietnam": [
+      "chảy máu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/block_cb_1000_it.json",
     "total": 1926,
     "index": 172,
-    "id_item": "block_cb_1000_it"
+    "id_item": "block_cb_1000_it",
+    "english": "block",
+    "list_vietnam": [
+      "khối; tảng; súc",
+      "cái thớt; tấm kê",
+      "lô nhà",
+      "vật chướng ngại",
+      "nhà khối",
+      "làm trở ngại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/blood_cb_1000_it.json",
     "total": 1926,
     "index": 173,
-    "id_item": "blood_cb_1000_it"
+    "id_item": "blood_cb_1000_it",
+    "english": "blood",
+    "list_vietnam": [
+      "máu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/blouse_cb_1000_it.json",
     "total": 1926,
     "index": 174,
-    "id_item": "blouse_cb_1000_it"
+    "id_item": "blouse_cb_1000_it",
+    "english": "blouse",
+    "list_vietnam": [
+      "áo cánh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/blow_cb_1000_it.json",
     "total": 1926,
     "index": 175,
-    "id_item": "blow_cb_1000_it"
+    "id_item": "blow_cb_1000_it",
+    "english": "blow",
+    "list_vietnam": [
+      "cú đánh",
+      "tai hoạ",
+      "thổi",
+      "thổi",
+      "cuốn đi",
+      "hà hơi vào",
+      "thổi (kèn…)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/blue_cb_1000_it.json",
     "total": 1926,
     "index": 176,
-    "id_item": "blue_cb_1000_it"
+    "id_item": "blue_cb_1000_it",
+    "english": "blue",
+    "list_vietnam": [
+      "xanh",
+      "chán nản",
+      "màu xanh",
+      "phẩm xanh, sơn xanh",
+      "bầu trời, biển cả"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/board_cb_1000_it.json",
     "total": 1926,
     "index": 177,
-    "id_item": "board_cb_1000_it"
+    "id_item": "board_cb_1000_it",
+    "english": "board",
+    "list_vietnam": [
+      "tấm ván",
+      "bảng",
+      "bàn ăn",
+      "ban",
+      "lên tàu, xe",
+      "ăn ở trọ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/boat_cb_1000_it.json",
     "total": 1926,
     "index": 178,
-    "id_item": "boat_cb_1000_it"
+    "id_item": "boat_cb_1000_it",
+    "english": "boat",
+    "list_vietnam": [
+      "thuyền",
+      "tàu",
+      "đĩa hình thuyền",
+      "đi chơi bằng thuyền"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/body_cb_1000_it.json",
     "total": 1926,
     "index": 179,
-    "id_item": "body_cb_1000_it"
+    "id_item": "body_cb_1000_it",
+    "english": "body",
+    "list_vietnam": [
+      "thân thể",
+      "thi thể",
+      "phần chính yếu",
+      "số lượng lớn",
+      "nhóm; đoàn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bone_cb_1000_it.json",
     "total": 1926,
     "index": 180,
-    "id_item": "bone_cb_1000_it"
+    "id_item": "bone_cb_1000_it",
+    "english": "bone",
+    "list_vietnam": [
+      "bộ xương",
+      "xương",
+      "gỡ xương"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/booking_cb_1000_it.json",
     "total": 1926,
     "index": 181,
-    "id_item": "booking_cb_1000_it"
+    "id_item": "booking_cb_1000_it",
+    "english": "booking",
+    "list_vietnam": [
+      "chỗ ngồi được giữ trước"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/book_cb_1000_it.json",
     "total": 1926,
     "index": 182,
-    "id_item": "book_cb_1000_it"
+    "id_item": "book_cb_1000_it",
+    "english": "book",
+    "list_vietnam": [
+      "sách",
+      "vở; sổ",
+      "sổ sách kế toán",
+      "đặt vé trước",
+      "đặt chỗ trước"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/boring_cb_1000_it.json",
     "total": 1926,
     "index": 183,
-    "id_item": "boring_cb_1000_it"
+    "id_item": "boring_cb_1000_it",
+    "english": "boring",
+    "list_vietnam": [
+      "sự nhạt nhẽo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/born_cb_1000_it.json",
     "total": 1926,
     "index": 184,
-    "id_item": "born_cb_1000_it"
+    "id_item": "born_cb_1000_it",
+    "english": "born",
+    "list_vietnam": [
+      "đầu lòng; cả"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bossy_cb_1000_it.json",
     "total": 1926,
     "index": 185,
-    "id_item": "bossy_cb_1000_it"
+    "id_item": "bossy_cb_1000_it",
+    "english": "bossy",
+    "list_vietnam": [
+      "hách dịch"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bother_cb_1000_it.json",
     "total": 1926,
     "index": 186,
-    "id_item": "bother_cb_1000_it"
+    "id_item": "bother_cb_1000_it",
+    "english": "bother",
+    "list_vietnam": [
+      "làm phiền",
+      "lo lắng",
+      "điều phiền muộn",
+      "điều bực mình"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/both_cb_1000_it.json",
     "total": 1926,
     "index": 187,
-    "id_item": "both_cb_1000_it"
+    "id_item": "both_cb_1000_it",
+    "english": "both",
+    "list_vietnam": [
+      "cả hai"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bottom_cb_1000_it.json",
     "total": 1926,
     "index": 188,
-    "id_item": "bottom_cb_1000_it"
+    "id_item": "bottom_cb_1000_it",
+    "english": "bottom",
+    "list_vietnam": [
+      "đáy",
+      "mông đít"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/box_cb_1000_it.json",
     "total": 1926,
     "index": 189,
-    "id_item": "box_cb_1000_it"
+    "id_item": "box_cb_1000_it",
+    "english": "box",
+    "list_vietnam": [
+      "hộp; thùng",
+      "lô (rạp hát)",
+      "bỏ vào hộp",
+      "đấm",
+      "cái bạt tai"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/boyfriend_cb_1000_it.json",
     "total": 1926,
     "index": 190,
-    "id_item": "boyfriend_cb_1000_it"
+    "id_item": "boyfriend_cb_1000_it",
+    "english": "boyfriend",
+    "list_vietnam": [
+      "bạn trai"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/boy_cb_1000_it.json",
     "total": 1926,
     "index": 191,
-    "id_item": "boy_cb_1000_it"
+    "id_item": "boy_cb_1000_it",
+    "english": "boy",
+    "list_vietnam": [
+      "con trai",
+      "cậu thanh niên"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bracing_cb_1000_it.json",
     "total": 1926,
     "index": 192,
-    "id_item": "bracing_cb_1000_it"
+    "id_item": "bracing_cb_1000_it",
+    "english": "bracing",
+    "list_vietnam": [
+      "làm khoẻ mạnh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/brain_cb_1000_it.json",
     "total": 1926,
     "index": 193,
-    "id_item": "brain_cb_1000_it"
+    "id_item": "brain_cb_1000_it",
+    "english": "brain",
+    "list_vietnam": [
+      "bộ não",
+      "trí tuệ",
+      "người thông minh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/branch_cb_1000_it.json",
     "total": 1926,
     "index": 194,
-    "id_item": "branch_cb_1000_it"
+    "id_item": "branch_cb_1000_it",
+    "english": "branch",
+    "list_vietnam": [
+      "cành cây",
+      "nhánh",
+      "phân nhánh; chia ngả"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bravely_cb_1000_it.json",
     "total": 1926,
     "index": 195,
-    "id_item": "bravely_cb_1000_it"
+    "id_item": "bravely_cb_1000_it",
+    "english": "bravely",
+    "list_vietnam": [
+      "dũng cảm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/brave_cb_1000_it.json",
     "total": 1926,
     "index": 196,
-    "id_item": "brave_cb_1000_it"
+    "id_item": "brave_cb_1000_it",
+    "english": "brave",
+    "list_vietnam": [
+      "gan dạ",
+      "đương đầu với",
+      "chiến binh da đỏ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bread_cb_1000_it.json",
     "total": 1926,
     "index": 197,
-    "id_item": "bread_cb_1000_it"
+    "id_item": "bread_cb_1000_it",
+    "english": "bread",
+    "list_vietnam": [
+      "bánh mỳ",
+      "kế sinh nhai"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/breakfast_cb_1000_it.json",
     "total": 1926,
     "index": 198,
-    "id_item": "breakfast_cb_1000_it"
+    "id_item": "breakfast_cb_1000_it",
+    "english": "breakfast",
+    "list_vietnam": [
+      "bữa sáng",
+      "ăn sáng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/break_cb_1000_it.json",
     "total": 1926,
     "index": 199,
-    "id_item": "break_cb_1000_it"
+    "id_item": "break_cb_1000_it",
+    "english": "break",
+    "list_vietnam": [
+      "chia ra",
+      "làm rời ra",
+      "đập vỡ",
+      "thay đổi",
+      "làm cho tốt hơn",
+      "làm gián đoạn",
+      "phá vỡ",
+      "báo tin",
+      "vỡ giọng",
+      "làm yếu đi",
+      "bắt đầu",
+      "sự gián đoạn",
+      "sự thay đổi",
+      "khe hở",
+      "cơ hội"
+    ]
   }
 ]

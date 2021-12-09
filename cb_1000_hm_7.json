@@ -3,600 +3,1327 @@
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/general_cb_1000_it.json",
     "total": 1926,
     "index": 700,
-    "id_item": "general_cb_1000_it"
+    "id_item": "general_cb_1000_it",
+    "english": "general",
+    "list_vietnam": [
+      "phổ biến; chung",
+      "toàn bộ; chung",
+      "không chuyên sâu vào chủ đề",
+      "người đứng đầu",
+      "tướng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/generate_cb_1000_it.json",
     "total": 1926,
     "index": 701,
-    "id_item": "generate_cb_1000_it"
+    "id_item": "generate_cb_1000_it",
+    "english": "generate",
+    "list_vietnam": [
+      "tạo ra; phát ra"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/generous_cb_1000_it.json",
     "total": 1926,
     "index": 702,
-    "id_item": "generous_cb_1000_it"
+    "id_item": "generous_cb_1000_it",
+    "english": "generous",
+    "list_vietnam": [
+      "hào phóng",
+      "sung túc; dồi dào",
+      "cao thượng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gentle_cb_1000_it.json",
     "total": 1926,
     "index": 703,
-    "id_item": "gentle_cb_1000_it"
+    "id_item": "gentle_cb_1000_it",
+    "english": "gentle",
+    "list_vietnam": [
+      "hiền lành",
+      "ôn hoà",
+      "thoai thoải"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/get_cb_1000_it.json",
     "total": 1926,
     "index": 704,
-    "id_item": "get_cb_1000_it"
+    "id_item": "get_cb_1000_it",
+    "english": "get",
+    "list_vietnam": [
+      "nhận được",
+      "mua",
+      "đưa; mang",
+      "dồn (ai) vào",
+      "trở nên",
+      "thuyết phục",
+      "đến, tới",
+      "thành công",
+      "mắc phải (bệnh)",
+      "bắt được (ai)",
+      "hiểu biết"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gild_cb_1000_it.json",
     "total": 1926,
     "index": 705,
-    "id_item": "gild_cb_1000_it"
+    "id_item": "gild_cb_1000_it",
+    "english": "gild",
+    "list_vietnam": [
+      "mạ vàng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/girlfriend_cb_1000_it.json",
     "total": 1926,
     "index": 706,
-    "id_item": "girlfriend_cb_1000_it"
+    "id_item": "girlfriend_cb_1000_it",
+    "english": "girlfriend",
+    "list_vietnam": [
+      "bạn gái; người yêu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/girl_cb_1000_it.json",
     "total": 1926,
     "index": 707,
-    "id_item": "girl_cb_1000_it"
+    "id_item": "girl_cb_1000_it",
+    "english": "girl",
+    "list_vietnam": [
+      "con gái",
+      "cô gái"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/give_cb_1000_it.json",
     "total": 1926,
     "index": 708,
-    "id_item": "give_cb_1000_it"
+    "id_item": "give_cb_1000_it",
+    "english": "give",
+    "list_vietnam": [
+      "từ chối, bị từ chối thẳng thừng",
+      "cho; đưa",
+      "sinh ra; cho",
+      "cong xuống hoặc căng",
+      "tổ chức",
+      "tính đàn hồi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/glad_cb_1000_it.json",
     "total": 1926,
     "index": 709,
-    "id_item": "glad_cb_1000_it"
+    "id_item": "glad_cb_1000_it",
+    "english": "glad",
+    "list_vietnam": [
+      "hài lòng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/glance_cb_1000_it.json",
     "total": 1926,
     "index": 710,
-    "id_item": "glance_cb_1000_it"
+    "id_item": "glance_cb_1000_it",
+    "english": "glance",
+    "list_vietnam": [
+      "liếc nhìn",
+      "cái liếc qua"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/glass_cb_1000_it.json",
     "total": 1926,
     "index": 711,
-    "id_item": "glass_cb_1000_it"
+    "id_item": "glass_cb_1000_it",
+    "english": "glass",
+    "list_vietnam": [
+      "thuỷ tinh",
+      "cái cốc, cái ly",
+      "gương soi",
+      "cái phong vũ biểu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/glider_cb_1000_it.json",
     "total": 1926,
     "index": 712,
-    "id_item": "glider_cb_1000_it"
+    "id_item": "glider_cb_1000_it",
+    "english": "glider",
+    "list_vietnam": [
+      "tàu lượn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/glue_cb_1000_it.json",
     "total": 1926,
     "index": 713,
-    "id_item": "glue_cb_1000_it"
+    "id_item": "glue_cb_1000_it",
+    "english": "glue",
+    "list_vietnam": [
+      "keo; hồ",
+      "dán bằng hồ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/goal_cb_1000_it.json",
     "total": 1926,
     "index": 714,
-    "id_item": "goal_cb_1000_it"
+    "id_item": "goal_cb_1000_it",
+    "english": "goal",
+    "list_vietnam": [
+      "bàn thắng; điểm",
+      "mục tiêu cố gắng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/godfather_cb_1000_it.json",
     "total": 1926,
     "index": 715,
-    "id_item": "godfather_cb_1000_it"
+    "id_item": "godfather_cb_1000_it",
+    "english": "godfather",
+    "list_vietnam": [
+      "cha mẹ đỡ đầu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/going_cb_1000_it.json",
     "total": 1926,
     "index": 716,
-    "id_item": "going_cb_1000_it"
+    "id_item": "going_cb_1000_it",
+    "english": "going",
+    "list_vietnam": [
+      "sự ra đi",
+      "việc đi lại",
+      "thành công",
+      "đang hoạt động"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/golden_cb_1000_it.json",
     "total": 1926,
     "index": 717,
-    "id_item": "golden_cb_1000_it"
+    "id_item": "golden_cb_1000_it",
+    "english": "golden",
+    "list_vietnam": [
+      "bằng vàng",
+      "đám cưới vàng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gold_cb_1000_it.json",
     "total": 1926,
     "index": 718,
-    "id_item": "gold_cb_1000_it"
+    "id_item": "gold_cb_1000_it",
+    "english": "gold",
+    "list_vietnam": [
+      "vàng",
+      "tiền vàng",
+      "màu vàng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/golf_cb_1000_it.json",
     "total": 1926,
     "index": 719,
-    "id_item": "golf_cb_1000_it"
+    "id_item": "golf_cb_1000_it",
+    "english": "golf",
+    "list_vietnam": [
+      "môn đánh gôn",
+      "chơi gôn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/good_cb_1000_it.json",
     "total": 1926,
     "index": 720,
-    "id_item": "good_cb_1000_it"
+    "id_item": "good_cb_1000_it",
+    "english": "good",
+    "list_vietnam": [
+      "ngoan",
+      "đúng, đảm đang",
+      "tốt; hay",
+      "thạo; giỏi",
+      "tử tế",
+      "có lợi; bổ ích",
+      "vui vẻ",
+      "dễ chịu",
+      "đáng kể",
+      "phù hợp",
+      "khỏe mạnh",
+      "chính đáng",
+      "tốt lành",
+      "hoàn toàn",
+      "khoẻ mạnh",
+      "lợi nhuận, thuận lợi…",
+      "điều tốt",
+      "đồng tình"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/goose_cb_1000_it.json",
     "total": 1926,
     "index": 721,
-    "id_item": "goose_cb_1000_it"
+    "id_item": "goose_cb_1000_it",
+    "english": "goose",
+    "list_vietnam": [
+      "ngỗng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/govern_cb_1000_it.json",
     "total": 1926,
     "index": 722,
-    "id_item": "govern_cb_1000_it"
+    "id_item": "govern_cb_1000_it",
+    "english": "govern",
+    "list_vietnam": [
+      "cai trị",
+      "chi phối"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/go_cb_1000_it.json",
     "total": 1926,
     "index": 723,
-    "id_item": "go_cb_1000_it"
+    "id_item": "go_cb_1000_it",
+    "english": "go",
+    "list_vietnam": [
+      "đi; đi đến; đi tới",
+      "được gửi đến hoặc chuyển đi",
+      "được bán đi; thuộc về",
+      "dẫn tới",
+      "tham dự, thăm",
+      "bỏ đi",
+      "diễn ra",
+      "ra đi",
+      "biến mất",
+      "thực hiện",
+      "không còn hoạt động tốt",
+      "hoạt động",
+      "hóa ra",
+      "trong tình trạng",
+      "được để; được đặt",
+      "qua đi; trôi qua",
+      "được sử dụng",
+      "có thể chấp nhận được",
+      "phát ra âm thanh nào đó",
+      "có giọng điệu nào đó",
+      "thành công",
+      "lượt chơi",
+      "sức sống"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/grand_cb_1000_it.json",
     "total": 1926,
     "index": 724,
-    "id_item": "grand_cb_1000_it"
+    "id_item": "grand_cb_1000_it",
+    "english": "grand",
+    "list_vietnam": [
+      "tráng lệ",
+      "dáng tôn quý",
+      "rất đẹp",
+      "được kính trọng",
+      "số một ngàn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/grant_cb_1000_it.json",
     "total": 1926,
     "index": 725,
-    "id_item": "grant_cb_1000_it"
+    "id_item": "grant_cb_1000_it",
+    "english": "grant",
+    "list_vietnam": [
+      "ban cho",
+      "chấp nhận",
+      "tài trợ; trợ cấp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/graph_cb_1000_it.json",
     "total": 1926,
     "index": 726,
-    "id_item": "graph_cb_1000_it"
+    "id_item": "graph_cb_1000_it",
+    "english": "graph",
+    "list_vietnam": [
+      "đồ thị"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/grapple_cb_1000_it.json",
     "total": 1926,
     "index": 727,
-    "id_item": "grapple_cb_1000_it"
+    "id_item": "grapple_cb_1000_it",
+    "english": "grapple",
+    "list_vietnam": [
+      "túm chặt lấy",
+      "vật lộn với khó khăn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/grass_cb_1000_it.json",
     "total": 1926,
     "index": 728,
-    "id_item": "grass_cb_1000_it"
+    "id_item": "grass_cb_1000_it",
+    "english": "grass",
+    "list_vietnam": [
+      "cỏ",
+      "loại thân thảo",
+      "cần sa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/great_cb_1000_it.json",
     "total": 1926,
     "index": 729,
-    "id_item": "great_cb_1000_it"
+    "id_item": "great_cb_1000_it",
+    "english": "great",
+    "list_vietnam": [
+      "lớn; vĩ đại",
+      "lớn; to lớni",
+      "đáng kể",
+      "rất hài lòng",
+      "giỏi; thạo",
+      "cách nhau một hoặc nhiều thế hệ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/greedily_cb_1000_it.json",
     "total": 1926,
     "index": 730,
-    "id_item": "greedily_cb_1000_it"
+    "id_item": "greedily_cb_1000_it",
+    "english": "greedily",
+    "list_vietnam": [
+      "tham lam"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/green_cb_1000_it.json",
     "total": 1926,
     "index": 731,
-    "id_item": "green_cb_1000_it"
+    "id_item": "green_cb_1000_it",
+    "english": "green",
+    "list_vietnam": [
+      "màu xanh lá cây",
+      "non; xanh",
+      "non nớt",
+      "nhợt nhạt",
+      "màu xanh lục",
+      "vật màu xanh lá cây",
+      "đồng cỏ",
+      "đồi cỏ",
+      "vì môi trường"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/grind_cb_1000_it.json",
     "total": 1926,
     "index": 732,
-    "id_item": "grind_cb_1000_it"
+    "id_item": "grind_cb_1000_it",
+    "english": "grind",
+    "list_vietnam": [
+      "nghiền",
+      "nén hoặc cọ mạnh",
+      "mài",
+      "công việc cực nhọc đều đều"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/ground_cb_1000_it.json",
     "total": 1926,
     "index": 733,
-    "id_item": "ground_cb_1000_it"
+    "id_item": "ground_cb_1000_it",
+    "english": "ground",
+    "list_vietnam": [
+      "mặt đất",
+      "một khoảng đất",
+      "dựa vào",
+      "không cất cánh",
+      "mắc cạn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/group_cb_1000_it.json",
     "total": 1926,
     "index": 734,
-    "id_item": "group_cb_1000_it"
+    "id_item": "group_cb_1000_it",
+    "english": "group",
+    "list_vietnam": [
+      "nhóm, tốp",
+      "ban, nhóm",
+      "tập hợp lại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/grow_cb_1000_it.json",
     "total": 1926,
     "index": 735,
-    "id_item": "grow_cb_1000_it"
+    "id_item": "grow_cb_1000_it",
+    "english": "grow",
+    "list_vietnam": [
+      "phát triển",
+      "gia tăng",
+      "làm phát triển",
+      "trở thành",
+      "trở thành"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/guess_cb_1000_it.json",
     "total": 1926,
     "index": 736,
-    "id_item": "guess_cb_1000_it"
+    "id_item": "guess_cb_1000_it",
+    "english": "guess",
+    "list_vietnam": [
+      "phỏng đoán",
+      "giả dụ",
+      "dự đoán"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/guide_cb_1000_it.json",
     "total": 1926,
     "index": 737,
-    "id_item": "guide_cb_1000_it"
+    "id_item": "guide_cb_1000_it",
+    "english": "guide",
+    "list_vietnam": [
+      "chỉ đường",
+      "chỉ dẫn",
+      "người hướng dẫn",
+      "sách hướng dẫn",
+      "nữ hướng đạo",
+      "bài học; điều chỉ dẫn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gull_cb_1000_it.json",
     "total": 1926,
     "index": 738,
-    "id_item": "gull_cb_1000_it"
+    "id_item": "gull_cb_1000_it",
+    "english": "gull",
+    "list_vietnam": [
+      "mòng biển"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gun_cb_1000_it.json",
     "total": 1926,
     "index": 739,
-    "id_item": "gun_cb_1000_it"
+    "id_item": "gun_cb_1000_it",
+    "english": "gun",
+    "list_vietnam": [
+      "súng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gym_cb_1000_it.json",
     "total": 1926,
     "index": 740,
-    "id_item": "gym_cb_1000_it"
+    "id_item": "gym_cb_1000_it",
+    "english": "gym",
+    "list_vietnam": [
+      "phòng tập thể dục"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hail_cb_1000_it.json",
     "total": 1926,
     "index": 741,
-    "id_item": "hail_cb_1000_it"
+    "id_item": "hail_cb_1000_it",
+    "english": "hail",
+    "list_vietnam": [
+      "trận mưa đá",
+      "hàng loạt",
+      "mưa đá",
+      "gọi tàu hoặc taxi",
+      "hoan nghênh",
+      "tiếng gọi",
+      "chào"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hair_cb_1000_it.json",
     "total": 1926,
     "index": 742,
-    "id_item": "hair_cb_1000_it"
+    "id_item": "hair_cb_1000_it",
+    "english": "hair",
+    "list_vietnam": [
+      "lông",
+      "tóc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/half-time_cb_1000_it.json",
     "total": 1926,
     "index": 743,
-    "id_item": "half-time_cb_1000_it"
+    "id_item": "half-time_cb_1000_it",
+    "english": "half-time",
+    "list_vietnam": [
+      "giờ nghỉ giữa hiệp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/half_cb_1000_it.json",
     "total": 1926,
     "index": 744,
-    "id_item": "half_cb_1000_it"
+    "id_item": "half_cb_1000_it",
+    "english": "half",
+    "list_vietnam": [
+      "một nửa",
+      "hiệp",
+      "một nửa",
+      "tạo thành từ hai nửa",
+      "chưa đủ; chưa hoàn chỉnh",
+      "tới một nửa",
+      "một phần",
+      "một nửa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/handle_cb_1000_it.json",
     "total": 1926,
     "index": 745,
-    "id_item": "handle_cb_1000_it"
+    "id_item": "handle_cb_1000_it",
+    "english": "handle",
+    "list_vietnam": [
+      "quai; tay cầm",
+      "sờ; cầm",
+      "xử lý; quản lý",
+      "buôn bán",
+      "đối xử như thế nào đó"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hand_cb_1000_it.json",
     "total": 1926,
     "index": 746,
-    "id_item": "hand_cb_1000_it"
+    "id_item": "hand_cb_1000_it",
+    "english": "hand",
+    "list_vietnam": [
+      "bàn tay",
+      "kim đồng hồ",
+      "thuỷ thủ",
+      "sự giúp đỡ",
+      "xấp bài",
+      "gang tay (đơn vị đo chiều cao của ngựa)",
+      "kiểu viết tay",
+      "trao; đưa",
+      "chuyển giao"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hanger_cb_1000_it.json",
     "total": 1926,
     "index": 747,
-    "id_item": "hanger_cb_1000_it"
+    "id_item": "hanger_cb_1000_it",
+    "english": "hanger",
+    "list_vietnam": [
+      "mắc áo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hang_cb_1000_it.json",
     "total": 1926,
     "index": 748,
-    "id_item": "hang_cb_1000_it"
+    "id_item": "hang_cb_1000_it",
+    "english": "hang",
+    "list_vietnam": [
+      "treo; mắc",
+      "treo",
+      "treo cổ",
+      "rủ xuống",
+      "gục đầu vì hổ thẹn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/happen_cb_1000_it.json",
     "total": 1926,
     "index": 749,
-    "id_item": "happen_cb_1000_it"
+    "id_item": "happen_cb_1000_it",
+    "english": "happen",
+    "list_vietnam": [
+      "xảy ra",
+      "cái gì đã xảy ra với người/vật",
+      "tình cờ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/happily_cb_1000_it.json",
     "total": 1926,
     "index": 750,
-    "id_item": "happily_cb_1000_it"
+    "id_item": "happily_cb_1000_it",
+    "english": "happily",
+    "list_vietnam": [
+      "một cách hạnh phúc; một cách may mắn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/happy_cb_1000_it.json",
     "total": 1926,
     "index": 751,
-    "id_item": "happy_cb_1000_it"
+    "id_item": "happy_cb_1000_it",
+    "english": "happy",
+    "list_vietnam": [
+      "hạnh phúc",
+      "vui lòng",
+      "may mắn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hardly_cb_1000_it.json",
     "total": 1926,
     "index": 752,
-    "id_item": "hardly_cb_1000_it"
+    "id_item": "hardly_cb_1000_it",
+    "english": "hardly",
+    "list_vietnam": [
+      "hầu như không",
+      "hầu như không",
+      "khó có thể"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hard_cb_1000_it.json",
     "total": 1926,
     "index": 753,
-    "id_item": "hard_cb_1000_it"
+    "id_item": "hard_cb_1000_it",
+    "english": "hard",
+    "list_vietnam": [
+      "cứng rắn",
+      "khó",
+      "nghiêm khắc",
+      "khắc nghiệt",
+      "gian khổ",
+      "cứng (nước)",
+      "chăm chỉ",
+      "mạnh; nặng",
+      "tập trung",
+      "hoàn toàn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/harmful_cb_1000_it.json",
     "total": 1926,
     "index": 754,
-    "id_item": "harmful_cb_1000_it"
+    "id_item": "harmful_cb_1000_it",
+    "english": "harmful",
+    "list_vietnam": [
+      "có hại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/harmless_cb_1000_it.json",
     "total": 1926,
     "index": 755,
-    "id_item": "harmless_cb_1000_it"
+    "id_item": "harmless_cb_1000_it",
+    "english": "harmless",
+    "list_vietnam": [
+      "vô hại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/harmony_cb_1000_it.json",
     "total": 1926,
     "index": 756,
-    "id_item": "harmony_cb_1000_it"
+    "id_item": "harmony_cb_1000_it",
+    "english": "harmony",
+    "list_vietnam": [
+      "sự hài hoà; sự hoà âm",
+      "sự hoà hợp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/harm_cb_1000_it.json",
     "total": 1926,
     "index": 757,
-    "id_item": "harm_cb_1000_it"
+    "id_item": "harm_cb_1000_it",
+    "english": "harm",
+    "list_vietnam": [
+      "sự tổn hại",
+      "gây hại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hate_cb_1000_it.json",
     "total": 1926,
     "index": 758,
-    "id_item": "hate_cb_1000_it"
+    "id_item": "hate_cb_1000_it",
+    "english": "hate",
+    "list_vietnam": [
+      "ghét",
+      "sự căm thù",
+      "người hoặc vật bị ghét"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hat_cb_1000_it.json",
     "total": 1926,
     "index": 759,
-    "id_item": "hat_cb_1000_it"
+    "id_item": "hat_cb_1000_it",
+    "english": "hat",
+    "list_vietnam": [
+      "mũ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/have_cb_1000_it.json",
     "total": 1926,
     "index": 760,
-    "id_item": "have_cb_1000_it"
+    "id_item": "have_cb_1000_it",
+    "english": "have",
+    "list_vietnam": [
+      "dùng với quá khứ phân từ để tạo thành thời hoàn thành",
+      "sở hữu hoặc có cái gì",
+      "có",
+      "nhận lại",
+      "sản sinh",
+      "sai khiến; nhờ",
+      "hưởng thụ",
+      "làm; ăn; uống",
+      "cho phép",
+      "có ai làm việc trong nhà của mình",
+      "cho là; nhận thấy",
+      "lừa gạt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hawk_cb_1000_it.json",
     "total": 1926,
     "index": 761,
-    "id_item": "hawk_cb_1000_it"
+    "id_item": "hawk_cb_1000_it",
+    "english": "hawk",
+    "list_vietnam": [
+      "diều hâu",
+      "bán hàng rong"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hazardous_cb_1000_it.json",
     "total": 1926,
     "index": 762,
-    "id_item": "hazardous_cb_1000_it"
+    "id_item": "hazardous_cb_1000_it",
+    "english": "hazardous",
+    "list_vietnam": [
+      "mạo hiểm; độc hại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/head_cb_1000_it.json",
     "total": 1926,
     "index": 763,
-    "id_item": "head_cb_1000_it"
+    "id_item": "head_cb_1000_it",
+    "english": "head",
+    "list_vietnam": [
+      "cái đầu",
+      "đầu óc",
+      "một đầu",
+      "người đứng đầu một nhóm hoặc một tổ chức",
+      "vật hình đầu",
+      "đầu nguồn",
+      "phía trên hoặc phần cao nhất",
+      "phía trước",
+      "năng khiếu",
+      "ông bà hiệu trưởng",
+      "mỗi người",
+      "mũi đất",
+      "bọt ở phía trên cốc bia",
+      "dẫn đầu",
+      "đứng đầu",
+      "tiến về phía",
+      "ghi ở đầu",
+      "đánh đầu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/heart_cb_1000_it.json",
     "total": 1926,
     "index": 764,
-    "id_item": "heart_cb_1000_it"
+    "id_item": "heart_cb_1000_it",
+    "english": "heart",
+    "list_vietnam": [
+      "trái tim",
+      "giữa trung tâm",
+      "lòng",
+      "nhiệt tình",
+      "hình trái tim",
+      "lá bài cơ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hear_cb_1000_it.json",
     "total": 1926,
     "index": 765,
-    "id_item": "hear_cb_1000_it"
+    "id_item": "hear_cb_1000_it",
+    "english": "hear",
+    "list_vietnam": [
+      "nghe",
+      "lắng nghe",
+      "nghe nói"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/heater_cb_1000_it.json",
     "total": 1926,
     "index": 766,
-    "id_item": "heater_cb_1000_it"
+    "id_item": "heater_cb_1000_it",
+    "english": "heater",
+    "list_vietnam": [
+      "bếp lò; lò"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/heat_cb_1000_it.json",
     "total": 1926,
     "index": 767,
-    "id_item": "heat_cb_1000_it"
+    "id_item": "heat_cb_1000_it",
+    "english": "heat",
+    "list_vietnam": [
+      "sức nóng",
+      "hơi nóng",
+      "sự nóng nực",
+      "sự hăng hái",
+      "đấu loại",
+      "nóng lên; trở nên nóng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/heave_cb_1000_it.json",
     "total": 1926,
     "index": 768,
-    "id_item": "heave_cb_1000_it"
+    "id_item": "heave_cb_1000_it",
+    "english": "heave",
+    "list_vietnam": [
+      "nhấc lên",
+      "ném",
+      "làm nhấp nhô",
+      "sự nhấp nhô; sự phập phồng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/heavy_cb_1000_it.json",
     "total": 1926,
     "index": 769,
-    "id_item": "heavy_cb_1000_it"
+    "id_item": "heavy_cb_1000_it",
+    "english": "heavy",
+    "list_vietnam": [
+      "nặng nề",
+      "nặng",
+      "lượng lớn",
+      "nặng",
+      "âm u",
+      "khó hiểu",
+      "khó tiêu",
+      "vụng về"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/heel_cb_1000_it.json",
     "total": 1926,
     "index": 770,
-    "id_item": "heel_cb_1000_it"
+    "id_item": "heel_cb_1000_it",
+    "english": "heel",
+    "list_vietnam": [
+      "gót chân",
+      "gót bít tất)",
+      "gót giày",
+      "đóng gót giày",
+      "nghiêng đi (tàu thuỷ)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/height_cb_1000_it.json",
     "total": 1926,
     "index": 771,
-    "id_item": "height_cb_1000_it"
+    "id_item": "height_cb_1000_it",
+    "english": "height",
+    "list_vietnam": [
+      "chiều cao",
+      "đỉnh cao nhất",
+      "đỉnh điểm",
+      "điểm cao"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/helicopter_cb_1000_it.json",
     "total": 1926,
     "index": 772,
-    "id_item": "helicopter_cb_1000_it"
+    "id_item": "helicopter_cb_1000_it",
+    "english": "helicopter",
+    "list_vietnam": [
+      "trực thăng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/helpful_cb_1000_it.json",
     "total": 1926,
     "index": 773,
-    "id_item": "helpful_cb_1000_it"
+    "id_item": "helpful_cb_1000_it",
+    "english": "helpful",
+    "list_vietnam": [
+      "giúp đỡ; có ích"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/help_cb_1000_it.json",
     "total": 1926,
     "index": 774,
-    "id_item": "help_cb_1000_it"
+    "id_item": "help_cb_1000_it",
+    "english": "help",
+    "list_vietnam": [
+      "giúp đỡ",
+      "giúp ích",
+      "cải thiện tình hình",
+      "phục vụ trong cửa hàng",
+      "không thể ngăn chặn hoặc tránh được cái gì",
+      "sự giúp đỡ hoặc được giúp đỡ",
+      "người giúp đỡ; vật giúp ích",
+      "người làm",
+      "lối thoát"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/here_cb_1000_it.json",
     "total": 1926,
     "index": 775,
-    "id_item": "here_cb_1000_it"
+    "id_item": "here_cb_1000_it",
+    "english": "here",
+    "list_vietnam": [
+      "ở đây; ở chỗ này",
+      "tại điểm này",
+      "chính; ngay tại đây",
+      "này!",
+      "có mặt (khi điểm danh)",
+      "khắp nơi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/her_cb_1000_it.json",
     "total": 1926,
     "index": 776,
-    "id_item": "her_cb_1000_it"
+    "id_item": "her_cb_1000_it",
+    "english": "her",
+    "list_vietnam": [
+      "nó, cô ấy, bà ấy, chị ấy…",
+      "của nó, của cô ấy, của bà ấy, của chị ấy…"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hew_cb_1000_it.json",
     "total": 1926,
     "index": 777,
-    "id_item": "hew_cb_1000_it"
+    "id_item": "hew_cb_1000_it",
+    "english": "hew",
+    "list_vietnam": [
+      "chặt, chém",
+      "chặt, phát"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hide_cb_1000_it.json",
     "total": 1926,
     "index": 778,
-    "id_item": "hide_cb_1000_it"
+    "id_item": "hide_cb_1000_it",
+    "english": "hide",
+    "list_vietnam": [
+      "che giấu",
+      "chỗ ẩn nấp",
+      "da sống"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/highly_cb_1000_it.json",
     "total": 1926,
     "index": 779,
-    "id_item": "highly_cb_1000_it"
+    "id_item": "highly_cb_1000_it",
+    "english": "highly",
+    "list_vietnam": [
+      "tốt; cao",
+      "ca ngợi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/high_cb_1000_it.json",
     "total": 1926,
     "index": 780,
-    "id_item": "high_cb_1000_it"
+    "id_item": "high_cb_1000_it",
+    "english": "high",
+    "list_vietnam": [
+      "cao",
+      "cao",
+      "mạnh; dữ dội",
+      "quan trọng; cao cấp",
+      "cao quý",
+      "mạnh",
+      "nốt cao",
+      "giọng nói trong trẻo",
+      "bắt đầu có mùi",
+      "có giá trị lớn",
+      "cao; ở mức độ cao"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hill_cb_1000_it.json",
     "total": 1926,
     "index": 781,
-    "id_item": "hill_cb_1000_it"
+    "id_item": "hill_cb_1000_it",
+    "english": "hill",
+    "list_vietnam": [
+      "đồi",
+      "dốc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/him_cb_1000_it.json",
     "total": 1926,
     "index": 782,
-    "id_item": "him_cb_1000_it"
+    "id_item": "him_cb_1000_it",
+    "english": "him",
+    "list_vietnam": [
+      "nó, ông ấy, anh ấy"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hip_cb_1000_it.json",
     "total": 1926,
     "index": 783,
-    "id_item": "hip_cb_1000_it"
+    "id_item": "hip_cb_1000_it",
+    "english": "hip",
+    "list_vietnam": [
+      "hông",
+      "vòng eo",
+      "hợp thời trang"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/history_cb_1000_it.json",
     "total": 1926,
     "index": 784,
-    "id_item": "history_cb_1000_it"
+    "id_item": "history_cb_1000_it",
+    "english": "history",
+    "list_vietnam": [
+      "môn lịch sử",
+      "lịch sử",
+      "quá trình lịch sử"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/his_cb_1000_it.json",
     "total": 1926,
     "index": 785,
-    "id_item": "his_cb_1000_it"
+    "id_item": "his_cb_1000_it",
+    "english": "his",
+    "list_vietnam": [
+      "của nó; của anh ấy"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hit_cb_1000_it.json",
     "total": 1926,
     "index": 786,
-    "id_item": "hit_cb_1000_it"
+    "id_item": "hit_cb_1000_it",
+    "english": "hit",
+    "list_vietnam": [
+      "đánh, đấm, nện",
+      "đâm, đụng",
+      "làm tổn thương, làm đau khổ",
+      "tìm ra, vớ được",
+      "cú đánh; đòn",
+      "điểm ghi được",
+      "việc thành công"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hold_cb_1000_it.json",
     "total": 1926,
     "index": 787,
-    "id_item": "hold_cb_1000_it"
+    "id_item": "hold_cb_1000_it",
+    "english": "hold",
+    "list_vietnam": [
+      "cầm, nắm, giữ",
+      "nắm; giữ",
+      "giữ chắc",
+      "giữ vững",
+      "bắt giữ",
+      "chứa; chứa đựng",
+      "diễn ra",
+      "giữ yên",
+      "giữ vị trí",
+      "tin rằng, cho là",
+      "có hiệu lực",
+      "giữ chắc",
+      "giữ vững",
+      "giữ chắc",
+      "thu hút",
+      "giữ yên",
+      "tổ chức",
+      "nắm giữ",
+      "tiếp tục",
+      "giữ máy điện thoại chờ người cần gặp",
+      "tiếp tục hát",
+      "giữ",
+      "sẽ thế nào",
+      "sự cầm nắm; sự giữ chặt",
+      "ảnh hưởng",
+      "cách nắm giữ đối thủ",
+      "hầm chứa hàng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hole_cb_1000_it.json",
     "total": 1926,
     "index": 788,
-    "id_item": "hole_cb_1000_it"
+    "id_item": "hole_cb_1000_it",
+    "english": "hole",
+    "list_vietnam": [
+      "lỗ thủng; lỗ hổng",
+      "hang; lỗ",
+      "lỗ đặt bóng",
+      "thủng",
+      "đánh bóng vào lỗ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/home_cb_1000_it.json",
     "total": 1926,
     "index": 789,
-    "id_item": "home_cb_1000_it"
+    "id_item": "home_cb_1000_it",
+    "english": "home",
+    "list_vietnam": [
+      "nhà; chỗ ở",
+      "quê hương",
+      "trại mồ côi; trại dưỡng lão",
+      "nhà hộ sinh",
+      "nhà",
+      "thuộc nhà mình",
+      "nội địa",
+      "(thể thao) chơi trên sân nhà",
+      "ở tại nhà mình",
+      "tới địa điểm đã định"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/honest_cb_1000_it.json",
     "total": 1926,
     "index": 790,
-    "id_item": "honest_cb_1000_it"
+    "id_item": "honest_cb_1000_it",
+    "english": "honest",
+    "list_vietnam": [
+      "trung thực",
+      "có vẻ thật thà",
+      "lương thiện"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hope_cb_1000_it.json",
     "total": 1926,
     "index": 791,
-    "id_item": "hope_cb_1000_it"
+    "id_item": "hope_cb_1000_it",
+    "english": "hope",
+    "list_vietnam": [
+      "hy vọng; ước mong",
+      "nguồn hy vọng",
+      "người hoặc vật mang lại hy vọng",
+      "niềm hy vọng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/horse_cb_1000_it.json",
     "total": 1926,
     "index": 792,
-    "id_item": "horse_cb_1000_it"
+    "id_item": "horse_cb_1000_it",
+    "english": "horse",
+    "list_vietnam": [
+      "con ngựa",
+      "ngựa gỗ (trong thể thao)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hose_cb_1000_it.json",
     "total": 1926,
     "index": 793,
-    "id_item": "hose_cb_1000_it"
+    "id_item": "hose_cb_1000_it",
+    "english": "hose",
+    "list_vietnam": [
+      "ống vòi",
+      "bít tất dài",
+      "rửa hoặc tưới nước bằng vòi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hot_cb_1000_it.json",
     "total": 1926,
     "index": 794,
-    "id_item": "hot_cb_1000_it"
+    "id_item": "hot_cb_1000_it",
+    "english": "hot",
+    "list_vietnam": [
+      "nóng",
+      "nóng bức",
+      "cay nồng",
+      "nóng nảy",
+      "nóng hổi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hound_cb_1000_it.json",
     "total": 1926,
     "index": 795,
-    "id_item": "hound_cb_1000_it"
+    "id_item": "hound_cb_1000_it",
+    "english": "hound",
+    "list_vietnam": [
+      "chó săn",
+      "săn lùng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hour_cb_1000_it.json",
     "total": 1926,
     "index": 796,
-    "id_item": "hour_cb_1000_it"
+    "id_item": "hour_cb_1000_it",
+    "english": "hour",
+    "list_vietnam": [
+      "giờ; tiếng (đồng hồ)",
+      "khoảng thời gian ấn định để làm gì"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/house_cb_1000_it.json",
     "total": 1926,
     "index": 797,
-    "id_item": "house_cb_1000_it"
+    "id_item": "house_cb_1000_it",
+    "english": "house",
+    "list_vietnam": [
+      "nhà ở; căn nhà",
+      "nhà; chuồng",
+      "nhà hát",
+      "dòng họ",
+      "cung cấp nhà ở cho",
+      "ở; trú"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/how_cb_1000_it.json",
     "total": 1926,
     "index": 798,
-    "id_item": "how_cb_1000_it"
+    "id_item": "how_cb_1000_it",
+    "english": "how",
+    "list_vietnam": [
+      "như thế nào",
+      "tới mức độ nào",
+      "bằng phương tiện gì",
+      "tình trạng sức khoẻ; hoàn cảnh thế nào",
+      "vì lí do gì"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/huge_cb_1000_it.json",
     "total": 1926,
     "index": 799,
-    "id_item": "huge_cb_1000_it"
+    "id_item": "huge_cb_1000_it",
+    "english": "huge",
+    "list_vietnam": [
+      "khổng lồ"
+    ]
   }
 ]
