@@ -1,77 +1,8 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/climb_cb_1000_it.json",
-    "total": 1926,
-    "index": 300,
-    "id_item": "climb_cb_1000_it",
-    "english": "climb",
-    "list_mean": [
-      "trèo leo",
-      "leo trèo",
-      "hành động leo trèo",
-      "vật leo trèo"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1753352857"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cling_cb_1000_it.json",
-    "total": 1926,
-    "index": 301,
-    "id_item": "cling_cb_1000_it",
-    "english": "cling",
-    "list_mean": [
-      "bám chặt vào"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1955489176"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/clock_cb_1000_it.json",
-    "total": 1926,
-    "index": 302,
-    "id_item": "clock_cb_1000_it",
-    "english": "clock",
-    "list_mean": [
-      "đồng hồ",
-      "đồng hồ công tơ mét",
-      "bấm giờ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1921537001"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/close_cb_1000_it.json",
-    "total": 1926,
-    "index": 303,
-    "id_item": "close_cb_1000_it",
-    "english": "close",
-    "list_mean": [
-      "gần",
-      "vừa vặn",
-      "gần trong quan hệ",
-      "sát nhau",
-      "cẩn thận",
-      "bó sát",
-      "ngột ngạt",
-      "keo kiệt",
-      "thích giữ bí mật",
-      "đóng",
-      "kết thúc",
-      "hoàn tất",
-      "phần kết thúc"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-596325818"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/clothe_cb_1000_it.json",
-    "total": 1926,
-    "index": 304,
+    "total": 1855,
+    "index": 300,
     "id_item": "clothe_cb_1000_it",
     "english": "clothe",
     "list_mean": [
@@ -84,8 +15,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cloth_cb_1000_it.json",
-    "total": 1926,
-    "index": 305,
+    "total": 1855,
+    "index": 301,
     "id_item": "cloth_cb_1000_it",
     "english": "cloth",
     "list_mean": [
@@ -97,8 +28,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cloudy_cb_1000_it.json",
-    "total": 1926,
-    "index": 306,
+    "total": 1855,
+    "index": 302,
     "id_item": "cloudy_cb_1000_it",
     "english": "cloudy",
     "list_mean": [
@@ -111,8 +42,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cloud_cb_1000_it.json",
-    "total": 1926,
-    "index": 307,
+    "total": 1855,
+    "index": 303,
     "id_item": "cloud_cb_1000_it",
     "english": "cloud",
     "list_mean": [
@@ -129,8 +60,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coach_cb_1000_it.json",
-    "total": 1926,
-    "index": 308,
+    "total": 1855,
+    "index": 304,
     "id_item": "coach_cb_1000_it",
     "english": "coach",
     "list_mean": [
@@ -147,8 +78,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coal_cb_1000_it.json",
-    "total": 1926,
-    "index": 309,
+    "total": 1855,
+    "index": 305,
     "id_item": "coal_cb_1000_it",
     "english": "coal",
     "list_mean": [
@@ -160,8 +91,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coast_cb_1000_it.json",
-    "total": 1926,
-    "index": 310,
+    "total": 1855,
+    "index": 306,
     "id_item": "coast_cb_1000_it",
     "english": "coast",
     "list_mean": [
@@ -174,8 +105,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coating_cb_1000_it.json",
-    "total": 1926,
-    "index": 311,
+    "total": 1855,
+    "index": 307,
     "id_item": "coating_cb_1000_it",
     "english": "coating",
     "list_mean": [
@@ -187,8 +118,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coat_cb_1000_it.json",
-    "total": 1926,
-    "index": 312,
+    "total": 1855,
+    "index": 308,
     "id_item": "coat_cb_1000_it",
     "english": "coat",
     "list_mean": [
@@ -204,8 +135,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cock_cb_1000_it.json",
-    "total": 1926,
-    "index": 313,
+    "total": 1855,
+    "index": 309,
     "id_item": "cock_cb_1000_it",
     "english": "cock",
     "list_mean": [
@@ -222,8 +153,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cold_cb_1000_it.json",
-    "total": 1926,
-    "index": 314,
+    "total": 1855,
+    "index": 310,
     "id_item": "cold_cb_1000_it",
     "english": "cold",
     "list_mean": [
@@ -239,8 +170,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/collect_cb_1000_it.json",
-    "total": 1926,
-    "index": 315,
+    "total": 1855,
+    "index": 311,
     "id_item": "collect_cb_1000_it",
     "english": "collect",
     "list_mean": [
@@ -253,8 +184,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/colony_cb_1000_it.json",
-    "total": 1926,
-    "index": 316,
+    "total": 1855,
+    "index": 312,
     "id_item": "colony_cb_1000_it",
     "english": "colony",
     "list_mean": [
@@ -268,8 +199,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/column_cb_1000_it.json",
-    "total": 1926,
-    "index": 317,
+    "total": 1855,
+    "index": 313,
     "id_item": "column_cb_1000_it",
     "english": "column",
     "list_mean": [
@@ -287,8 +218,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/combine_cb_1000_it.json",
-    "total": 1926,
-    "index": 318,
+    "total": 1855,
+    "index": 314,
     "id_item": "combine_cb_1000_it",
     "english": "combine",
     "list_mean": [
@@ -301,8 +232,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/come_cb_1000_it.json",
-    "total": 1926,
-    "index": 319,
+    "total": 1855,
+    "index": 315,
     "id_item": "come_cb_1000_it",
     "english": "come",
     "list_mean": [
@@ -320,8 +251,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/comment_cb_1000_it.json",
-    "total": 1926,
-    "index": 320,
+    "total": 1855,
+    "index": 316,
     "id_item": "comment_cb_1000_it",
     "english": "comment",
     "list_mean": [
@@ -334,8 +265,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/commission_cb_1000_it.json",
-    "total": 1926,
-    "index": 321,
+    "total": 1855,
+    "index": 317,
     "id_item": "commission_cb_1000_it",
     "english": "commission",
     "list_mean": [
@@ -352,8 +283,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/commit_cb_1000_it.json",
-    "total": 1926,
-    "index": 322,
+    "total": 1855,
+    "index": 318,
     "id_item": "commit_cb_1000_it",
     "english": "commit",
     "list_mean": [
@@ -367,8 +298,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/common_cb_1000_it.json",
-    "total": 1926,
-    "index": 323,
+    "total": 1855,
+    "index": 319,
     "id_item": "common_cb_1000_it",
     "english": "common",
     "list_mean": [
@@ -386,8 +317,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/company_cb_1000_it.json",
-    "total": 1926,
-    "index": 324,
+    "total": 1855,
+    "index": 320,
     "id_item": "company_cb_1000_it",
     "english": "company",
     "list_mean": [
@@ -403,8 +334,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/compare_cb_1000_it.json",
-    "total": 1926,
-    "index": 325,
+    "total": 1855,
+    "index": 321,
     "id_item": "compare_cb_1000_it",
     "english": "compare",
     "list_mean": [
@@ -418,8 +349,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/compassionate_cb_1000_it.json",
-    "total": 1926,
-    "index": 326,
+    "total": 1855,
+    "index": 322,
     "id_item": "compassionate_cb_1000_it",
     "english": "compassionate",
     "list_mean": [
@@ -431,8 +362,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/compensation_cb_1000_it.json",
-    "total": 1926,
-    "index": 327,
+    "total": 1855,
+    "index": 323,
     "id_item": "compensation_cb_1000_it",
     "english": "compensation",
     "list_mean": [
@@ -444,8 +375,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/complain_cb_1000_it.json",
-    "total": 1926,
-    "index": 328,
+    "total": 1855,
+    "index": 324,
     "id_item": "complain_cb_1000_it",
     "english": "complain",
     "list_mean": [
@@ -458,8 +389,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/complete_cb_1000_it.json",
-    "total": 1926,
-    "index": 329,
+    "total": 1855,
+    "index": 325,
     "id_item": "complete_cb_1000_it",
     "english": "complete",
     "list_mean": [
@@ -474,8 +405,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/complimentary_cb_1000_it.json",
-    "total": 1926,
-    "index": 330,
+    "total": 1855,
+    "index": 326,
     "id_item": "complimentary_cb_1000_it",
     "english": "complimentary",
     "list_mean": [
@@ -488,8 +419,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/composer_cb_1000_it.json",
-    "total": 1926,
-    "index": 331,
+    "total": 1855,
+    "index": 327,
     "id_item": "composer_cb_1000_it",
     "english": "composer",
     "list_mean": [
@@ -501,8 +432,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/concentrate_cb_1000_it.json",
-    "total": 1926,
-    "index": 332,
+    "total": 1855,
+    "index": 328,
     "id_item": "concentrate_cb_1000_it",
     "english": "concentrate",
     "list_mean": [
@@ -516,8 +447,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/conclude_cb_1000_it.json",
-    "total": 1926,
-    "index": 333,
+    "total": 1855,
+    "index": 329,
     "id_item": "conclude_cb_1000_it",
     "english": "conclude",
     "list_mean": [
@@ -530,8 +461,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/concrete_cb_1000_it.json",
-    "total": 1926,
-    "index": 334,
+    "total": 1855,
+    "index": 330,
     "id_item": "concrete_cb_1000_it",
     "english": "concrete",
     "list_mean": [
@@ -546,8 +477,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/condition_cb_1000_it.json",
-    "total": 1926,
-    "index": 335,
+    "total": 1855,
+    "index": 331,
     "id_item": "condition_cb_1000_it",
     "english": "condition",
     "list_mean": [
@@ -562,8 +493,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/conductor_cb_1000_it.json",
-    "total": 1926,
-    "index": 336,
+    "total": 1855,
+    "index": 332,
     "id_item": "conductor_cb_1000_it",
     "english": "conductor",
     "list_mean": [
@@ -578,8 +509,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/conduct_cb_1000_it.json",
-    "total": 1926,
-    "index": 337,
+    "total": 1855,
+    "index": 333,
     "id_item": "conduct_cb_1000_it",
     "english": "conduct",
     "list_mean": [
@@ -597,8 +528,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cone_cb_1000_it.json",
-    "total": 1926,
-    "index": 338,
+    "total": 1855,
+    "index": 334,
     "id_item": "cone_cb_1000_it",
     "english": "cone",
     "list_mean": [
@@ -613,8 +544,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/confident_cb_1000_it.json",
-    "total": 1926,
-    "index": 339,
+    "total": 1855,
+    "index": 335,
     "id_item": "confident_cb_1000_it",
     "english": "confident",
     "list_mean": [
@@ -626,8 +557,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/confirm_cb_1000_it.json",
-    "total": 1926,
-    "index": 340,
+    "total": 1855,
+    "index": 336,
     "id_item": "confirm_cb_1000_it",
     "english": "confirm",
     "list_mean": [
@@ -640,8 +571,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/connect_cb_1000_it.json",
-    "total": 1926,
-    "index": 341,
+    "total": 1855,
+    "index": 337,
     "id_item": "connect_cb_1000_it",
     "english": "connect",
     "list_mean": [
@@ -654,8 +585,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/conscientious_cb_1000_it.json",
-    "total": 1926,
-    "index": 342,
+    "total": 1855,
+    "index": 338,
     "id_item": "conscientious_cb_1000_it",
     "english": "conscientious",
     "list_mean": [
@@ -667,8 +598,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/conserve_cb_1000_it.json",
-    "total": 1926,
-    "index": 343,
+    "total": 1855,
+    "index": 339,
     "id_item": "conserve_cb_1000_it",
     "english": "conserve",
     "list_mean": [
@@ -681,8 +612,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/consider_cb_1000_it.json",
-    "total": 1926,
-    "index": 344,
+    "total": 1855,
+    "index": 340,
     "id_item": "consider_cb_1000_it",
     "english": "consider",
     "list_mean": [
@@ -697,8 +628,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/consist_cb_1000_it.json",
-    "total": 1926,
-    "index": 345,
+    "total": 1855,
+    "index": 341,
     "id_item": "consist_cb_1000_it",
     "english": "consist",
     "list_mean": [
@@ -709,22 +640,9 @@
     "hash_code_list_mean": "343744"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/consonant_cb_1000_it.json",
-    "total": 1926,
-    "index": 346,
-    "id_item": "consonant_cb_1000_it",
-    "english": "consonant",
-    "list_mean": [
-      "phụ âm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-756801283"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/constitute_cb_1000_it.json",
-    "total": 1926,
-    "index": 347,
+    "total": 1855,
+    "index": 342,
     "id_item": "constitute_cb_1000_it",
     "english": "constitute",
     "list_mean": [
@@ -736,8 +654,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/construction_cb_1000_it.json",
-    "total": 1926,
-    "index": 348,
+    "total": 1855,
+    "index": 343,
     "id_item": "construction_cb_1000_it",
     "english": "construction",
     "list_mean": [
@@ -750,8 +668,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/construct_cb_1000_it.json",
-    "total": 1926,
-    "index": 349,
+    "total": 1855,
+    "index": 344,
     "id_item": "construct_cb_1000_it",
     "english": "construct",
     "list_mean": [
@@ -763,8 +681,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/contact_cb_1000_it.json",
-    "total": 1926,
-    "index": 350,
+    "total": 1855,
+    "index": 345,
     "id_item": "contact_cb_1000_it",
     "english": "contact",
     "list_mean": [
@@ -782,8 +700,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/contain_cb_1000_it.json",
-    "total": 1926,
-    "index": 351,
+    "total": 1855,
+    "index": 346,
     "id_item": "contain_cb_1000_it",
     "english": "contain",
     "list_mean": [
@@ -796,8 +714,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/contaminate_cb_1000_it.json",
-    "total": 1926,
-    "index": 352,
+    "total": 1855,
+    "index": 347,
     "id_item": "contaminate_cb_1000_it",
     "english": "contaminate",
     "list_mean": [
@@ -809,8 +727,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/contamination_cb_1000_it.json",
-    "total": 1926,
-    "index": 353,
+    "total": 1855,
+    "index": 348,
     "id_item": "contamination_cb_1000_it",
     "english": "contamination",
     "list_mean": [
@@ -822,8 +740,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/continent_cb_1000_it.json",
-    "total": 1926,
-    "index": 354,
+    "total": 1855,
+    "index": 349,
     "id_item": "continent_cb_1000_it",
     "english": "continent",
     "list_mean": [
@@ -837,8 +755,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/continue_cb_1000_it.json",
-    "total": 1926,
-    "index": 355,
+    "total": 1855,
+    "index": 350,
     "id_item": "continue_cb_1000_it",
     "english": "continue",
     "list_mean": [
@@ -851,8 +769,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/contribute_cb_1000_it.json",
-    "total": 1926,
-    "index": 356,
+    "total": 1855,
+    "index": 351,
     "id_item": "contribute_cb_1000_it",
     "english": "contribute",
     "list_mean": [
@@ -865,8 +783,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/control_cb_1000_it.json",
-    "total": 1926,
-    "index": 357,
+    "total": 1855,
+    "index": 352,
     "id_item": "control_cb_1000_it",
     "english": "control",
     "list_mean": [
@@ -884,8 +802,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/convert_cb_1000_it.json",
-    "total": 1926,
-    "index": 358,
+    "total": 1855,
+    "index": 353,
     "id_item": "convert_cb_1000_it",
     "english": "convert",
     "list_mean": [
@@ -899,8 +817,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cook_cb_1000_it.json",
-    "total": 1926,
-    "index": 359,
+    "total": 1855,
+    "index": 354,
     "id_item": "cook_cb_1000_it",
     "english": "cook",
     "list_mean": [
@@ -913,8 +831,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cool_cb_1000_it.json",
-    "total": 1926,
-    "index": 360,
+    "total": 1855,
+    "index": 355,
     "id_item": "cool_cb_1000_it",
     "english": "cool",
     "list_mean": [
@@ -932,8 +850,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cope_cb_1000_it.json",
-    "total": 1926,
-    "index": 361,
+    "total": 1855,
+    "index": 356,
     "id_item": "cope_cb_1000_it",
     "english": "cope",
     "list_mean": [
@@ -945,8 +863,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/copy_cb_1000_it.json",
-    "total": 1926,
-    "index": 362,
+    "total": 1855,
+    "index": 357,
     "id_item": "copy_cb_1000_it",
     "english": "copy",
     "list_mean": [
@@ -961,8 +879,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coral_cb_1000_it.json",
-    "total": 1926,
-    "index": 363,
+    "total": 1855,
+    "index": 358,
     "id_item": "coral_cb_1000_it",
     "english": "coral",
     "list_mean": [
@@ -975,8 +893,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/corner_cb_1000_it.json",
-    "total": 1926,
-    "index": 364,
+    "total": 1855,
+    "index": 359,
     "id_item": "corner_cb_1000_it",
     "english": "corner",
     "list_mean": [
@@ -992,8 +910,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/corn_cb_1000_it.json",
-    "total": 1926,
-    "index": 365,
+    "total": 1855,
+    "index": 360,
     "id_item": "corn_cb_1000_it",
     "english": "corn",
     "list_mean": [
@@ -1007,8 +925,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/correct_cb_1000_it.json",
-    "total": 1926,
-    "index": 366,
+    "total": 1855,
+    "index": 361,
     "id_item": "correct_cb_1000_it",
     "english": "correct",
     "list_mean": [
@@ -1023,8 +941,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/correlation_cb_1000_it.json",
-    "total": 1926,
-    "index": 367,
+    "total": 1855,
+    "index": 362,
     "id_item": "correlation_cb_1000_it",
     "english": "correlation",
     "list_mean": [
@@ -1036,8 +954,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/corridor_cb_1000_it.json",
-    "total": 1926,
-    "index": 368,
+    "total": 1855,
+    "index": 363,
     "id_item": "corridor_cb_1000_it",
     "english": "corridor",
     "list_mean": [
@@ -1049,8 +967,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cost_cb_1000_it.json",
-    "total": 1926,
-    "index": 369,
+    "total": 1855,
+    "index": 364,
     "id_item": "cost_cb_1000_it",
     "english": "cost",
     "list_mean": [
@@ -1064,8 +982,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cotton_cb_1000_it.json",
-    "total": 1926,
-    "index": 370,
+    "total": 1855,
+    "index": 365,
     "id_item": "cotton_cb_1000_it",
     "english": "cotton",
     "list_mean": [
@@ -1079,8 +997,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/could_cb_1000_it.json",
-    "total": 1926,
-    "index": 371,
+    "total": 1855,
+    "index": 366,
     "id_item": "could_cb_1000_it",
     "english": "could",
     "list_mean": [
@@ -1093,8 +1011,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/country_cb_1000_it.json",
-    "total": 1926,
-    "index": 372,
+    "total": 1855,
+    "index": 367,
     "id_item": "country_cb_1000_it",
     "english": "country",
     "list_mean": [
@@ -1109,8 +1027,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/count_cb_1000_it.json",
-    "total": 1926,
-    "index": 373,
+    "total": 1855,
+    "index": 368,
     "id_item": "count_cb_1000_it",
     "english": "count",
     "list_mean": [
@@ -1128,8 +1046,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/courageous_cb_1000_it.json",
-    "total": 1926,
-    "index": 374,
+    "total": 1855,
+    "index": 369,
     "id_item": "courageous_cb_1000_it",
     "english": "courageous",
     "list_mean": [
@@ -1141,8 +1059,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/course_cb_1000_it.json",
-    "total": 1926,
-    "index": 375,
+    "total": 1855,
+    "index": 370,
     "id_item": "course_cb_1000_it",
     "english": "course",
     "list_mean": [
@@ -1159,8 +1077,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/courteous_cb_1000_it.json",
-    "total": 1926,
-    "index": 376,
+    "total": 1855,
+    "index": 371,
     "id_item": "courteous_cb_1000_it",
     "english": "courteous",
     "list_mean": [
@@ -1172,8 +1090,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cover_cb_1000_it.json",
-    "total": 1926,
-    "index": 377,
+    "total": 1855,
+    "index": 372,
     "id_item": "cover_cb_1000_it",
     "english": "cover",
     "list_mean": [
@@ -1194,8 +1112,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cow_cb_1000_it.json",
-    "total": 1926,
-    "index": 378,
+    "total": 1855,
+    "index": 373,
     "id_item": "cow_cb_1000_it",
     "english": "cow",
     "list_mean": [
@@ -1209,8 +1127,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crab_cb_1000_it.json",
-    "total": 1926,
-    "index": 379,
+    "total": 1855,
+    "index": 374,
     "id_item": "crab_cb_1000_it",
     "english": "crab",
     "list_mean": [
@@ -1223,8 +1141,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crazy_cb_1000_it.json",
-    "total": 1926,
-    "index": 380,
+    "total": 1855,
+    "index": 375,
     "id_item": "crazy_cb_1000_it",
     "english": "crazy",
     "list_mean": [
@@ -1237,8 +1155,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crease_cb_1000_it.json",
-    "total": 1926,
-    "index": 381,
+    "total": 1855,
+    "index": 376,
     "id_item": "crease_cb_1000_it",
     "english": "crease",
     "list_mean": [
@@ -1252,8 +1170,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/create_cb_1000_it.json",
-    "total": 1926,
-    "index": 382,
+    "total": 1855,
+    "index": 377,
     "id_item": "create_cb_1000_it",
     "english": "create",
     "list_mean": [
@@ -1266,8 +1184,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/creative_cb_1000_it.json",
-    "total": 1926,
-    "index": 383,
+    "total": 1855,
+    "index": 378,
     "id_item": "creative_cb_1000_it",
     "english": "creative",
     "list_mean": [
@@ -1279,8 +1197,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/creditor_cb_1000_it.json",
-    "total": 1926,
-    "index": 384,
+    "total": 1855,
+    "index": 379,
     "id_item": "creditor_cb_1000_it",
     "english": "creditor",
     "list_mean": [
@@ -1292,8 +1210,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/creep_cb_1000_it.json",
-    "total": 1926,
-    "index": 385,
+    "total": 1855,
+    "index": 380,
     "id_item": "creep_cb_1000_it",
     "english": "creep",
     "list_mean": [
@@ -1308,8 +1226,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cricket_cb_1000_it.json",
-    "total": 1926,
-    "index": 386,
+    "total": 1855,
+    "index": 381,
     "id_item": "cricket_cb_1000_it",
     "english": "cricket",
     "list_mean": [
@@ -1322,8 +1240,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crimson_cb_1000_it.json",
-    "total": 1926,
-    "index": 387,
+    "total": 1855,
+    "index": 382,
     "id_item": "crimson_cb_1000_it",
     "english": "crimson",
     "list_mean": [
@@ -1335,8 +1253,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crop_cb_1000_it.json",
-    "total": 1926,
-    "index": 388,
+    "total": 1855,
+    "index": 383,
     "id_item": "crop_cb_1000_it",
     "english": "crop",
     "list_mean": [
@@ -1352,8 +1270,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crossbreed_cb_1000_it.json",
-    "total": 1926,
-    "index": 389,
+    "total": 1855,
+    "index": 384,
     "id_item": "crossbreed_cb_1000_it",
     "english": "crossbreed",
     "list_mean": [
@@ -1365,8 +1283,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cross_cb_1000_it.json",
-    "total": 1926,
-    "index": 390,
+    "total": 1855,
+    "index": 385,
     "id_item": "cross_cb_1000_it",
     "english": "cross",
     "list_mean": [
@@ -1395,8 +1313,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crowd_cb_1000_it.json",
-    "total": 1926,
-    "index": 391,
+    "total": 1855,
+    "index": 386,
     "id_item": "crowd_cb_1000_it",
     "english": "crowd",
     "list_mean": [
@@ -1411,8 +1329,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/crow_cb_1000_it.json",
-    "total": 1926,
-    "index": 392,
+    "total": 1855,
+    "index": 387,
     "id_item": "crow_cb_1000_it",
     "english": "crow",
     "list_mean": [
@@ -1427,8 +1345,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cry_cb_1000_it.json",
-    "total": 1926,
-    "index": 393,
+    "total": 1855,
+    "index": 388,
     "id_item": "cry_cb_1000_it",
     "english": "cry",
     "list_mean": [
@@ -1444,8 +1362,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cube_cb_1000_it.json",
-    "total": 1926,
-    "index": 394,
+    "total": 1855,
+    "index": 389,
     "id_item": "cube_cb_1000_it",
     "english": "cube",
     "list_mean": [
@@ -1459,22 +1377,9 @@
     "hash_code_list_mean": "-681780143"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cuckoo_cb_1000_it.json",
-    "total": 1926,
-    "index": 395,
-    "id_item": "cuckoo_cb_1000_it",
-    "english": "cuckoo",
-    "list_mean": [
-      "chim cu cu"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "299522152"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cupboard_cb_1000_it.json",
-    "total": 1926,
-    "index": 396,
+    "total": 1855,
+    "index": 390,
     "id_item": "cupboard_cb_1000_it",
     "english": "cupboard",
     "list_mean": [
@@ -1486,8 +1391,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/curb_cb_1000_it.json",
-    "total": 1926,
-    "index": 397,
+    "total": 1855,
+    "index": 391,
     "id_item": "curb_cb_1000_it",
     "english": "curb",
     "list_mean": [
@@ -1501,8 +1406,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/current_cb_1000_it.json",
-    "total": 1926,
-    "index": 398,
+    "total": 1855,
+    "index": 392,
     "id_item": "current_cb_1000_it",
     "english": "current",
     "list_mean": [
@@ -1516,8 +1421,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/curve_cb_1000_it.json",
-    "total": 1926,
-    "index": 399,
+    "total": 1855,
+    "index": 393,
     "id_item": "curve_cb_1000_it",
     "english": "curve",
     "list_mean": [
@@ -1528,5 +1433,105 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1797171671"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cushion_cb_1000_it.json",
+    "total": 1855,
+    "index": 394,
+    "id_item": "cushion_cb_1000_it",
+    "english": "cushion",
+    "list_mean": [
+      "cái đệm",
+      "hơi đệm",
+      "lót nệm"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1273965221"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cut_cb_1000_it.json",
+    "total": 1855,
+    "index": 395,
+    "id_item": "cut_cb_1000_it",
+    "english": "cut",
+    "list_mean": [
+      "cắt",
+      "cắt rời từng mảnh",
+      "cắt may",
+      "cắt ngắn",
+      "cắt giảm",
+      "cắt bỏ",
+      "cắt đứt",
+      "phân chia",
+      "dừng",
+      "đi tắt",
+      "tiếp xúc",
+      "trốn học",
+      "lờ",
+      "cắt",
+      "cắt ngắn",
+      "miếng thịt"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "201859011"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dad_cb_1000_it.json",
+    "total": 1855,
+    "index": 396,
+    "id_item": "dad_cb_1000_it",
+    "english": "dad",
+    "list_mean": [
+      "cha, bố"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "736916958"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/daily_cb_1000_it.json",
+    "total": 1855,
+    "index": 397,
+    "id_item": "daily_cb_1000_it",
+    "english": "daily",
+    "list_mean": [
+      "hàng ngày",
+      "hàng ngày",
+      "nhật báo",
+      "người giúp việc"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1173954742"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/damage_cb_1000_it.json",
+    "total": 1855,
+    "index": 398,
+    "id_item": "damage_cb_1000_it",
+    "english": "damage",
+    "list_mean": [
+      "sự hư hại",
+      "khoản tiền được trả hay đòi phải trả để bồi thường thiệt hại",
+      "gây hư hại"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-426340395"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dancer_cb_1000_it.json",
+    "total": 1855,
+    "index": 399,
+    "id_item": "dancer_cb_1000_it",
+    "english": "dancer",
+    "list_mean": [
+      "diễn viên múa"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1572692316"
   }
 ]
