@@ -1,453 +1,8 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/orphan_cb_1000_it.json",
-    "total": 1855,
-    "index": 1100,
-    "id_item": "orphan_cb_1000_it",
-    "english": "orphan",
-    "list_mean": [
-      "trẻ mồ côi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "95737888"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/other_cb_1000_it.json",
-    "total": 1855,
-    "index": 1101,
-    "id_item": "other_cb_1000_it",
-    "english": "other",
-    "list_mean": [
-      "cái còn lại",
-      "những người/vật khác",
-      "trước"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1208574039"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/our_cb_1000_it.json",
-    "total": 1855,
-    "index": 1102,
-    "id_item": "our_cb_1000_it",
-    "english": "our",
-    "list_mean": [
-      "của chúng ta"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1814428415"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/outdo_cb_1000_it.json",
-    "total": 1855,
-    "index": 1103,
-    "id_item": "outdo_cb_1000_it",
-    "english": "outdo",
-    "list_mean": [
-      "làm giỏi hơn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "694044279"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/outgrow_cb_1000_it.json",
-    "total": 1855,
-    "index": 1104,
-    "id_item": "outgrow_cb_1000_it",
-    "english": "outgrow",
-    "list_mean": [
-      "lớn hơn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-27832269"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/output_cb_1000_it.json",
-    "total": 1855,
-    "index": 1105,
-    "id_item": "output_cb_1000_it",
-    "english": "output",
-    "list_mean": [
-      "sản lượng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "454190581"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/outshine_cb_1000_it.json",
-    "total": 1855,
-    "index": 1106,
-    "id_item": "outshine_cb_1000_it",
-    "english": "outshine",
-    "list_mean": [
-      "sáng hơn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-370013477"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/out_cb_1000_it.json",
-    "total": 1855,
-    "index": 1107,
-    "id_item": "out_cb_1000_it",
-    "english": "out",
-    "list_mean": [
-      "bên ngoài",
-      "lấy ra",
-      "rời khỏi",
-      "ra đi",
-      "to",
-      "hoàn toàn",
-      "sai",
-      "ra ngoài",
-      "thua",
-      "tham gia đình công",
-      "lỗi mốt",
-      "rút",
-      "không được chấp nhận",
-      "bên ngoài",
-      "phía ngoài",
-      "biến mất"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "661332299"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/oval_cb_1000_it.json",
-    "total": 1855,
-    "index": 1108,
-    "id_item": "oval_cb_1000_it",
-    "english": "oval",
-    "list_mean": [
-      "có hình bầu dục",
-      "hình bầu dục"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1292574063"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overcast_cb_1000_it.json",
-    "total": 1855,
-    "index": 1109,
-    "id_item": "overcast_cb_1000_it",
-    "english": "overcast",
-    "list_mean": [
-      "trời u ám"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-870278772"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overcome_cb_1000_it.json",
-    "total": 1855,
-    "index": 1110,
-    "id_item": "overcome_cb_1000_it",
-    "english": "overcome",
-    "list_mean": [
-      "mất tinh thần",
-      "khắc phục"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "877680830"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overdo_cb_1000_it.json",
-    "total": 1855,
-    "index": 1111,
-    "id_item": "overdo_cb_1000_it",
-    "english": "overdo",
-    "list_mean": [
-      "hành động thái quá",
-      "nấu quá nhừ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-983068189"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overhear_cb_1000_it.json",
-    "total": 1855,
-    "index": 1112,
-    "id_item": "overhear_cb_1000_it",
-    "english": "overhear",
-    "list_mean": [
-      "nghe lỏm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1568783777"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overlap_cb_1000_it.json",
-    "total": 1855,
-    "index": 1113,
-    "id_item": "overlap_cb_1000_it",
-    "english": "overlap",
-    "list_mean": [
-      "gối lên nhau",
-      "sự gối đè lên nhau"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1850731398"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overrun_cb_1000_it.json",
-    "total": 1855,
-    "index": 1114,
-    "id_item": "overrun_cb_1000_it",
-    "english": "overrun",
-    "list_mean": [
-      "chiếm hữu",
-      "vượt quá"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1613628137"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/oversee_cb_1000_it.json",
-    "total": 1855,
-    "index": 1115,
-    "id_item": "oversee_cb_1000_it",
-    "english": "oversee",
-    "list_mean": [
-      "giám sát"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "67770483"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overshoot_cb_1000_it.json",
-    "total": 1855,
-    "index": 1116,
-    "id_item": "overshoot_cb_1000_it",
-    "english": "overshoot",
-    "list_mean": [
-      "bắn quá đích"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1858506686"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/oversleep_cb_1000_it.json",
-    "total": 1855,
-    "index": 1117,
-    "id_item": "oversleep_cb_1000_it",
-    "english": "oversleep",
-    "list_mean": [
-      "ngủ quên"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1460839783"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overspend_cb_1000_it.json",
-    "total": 1855,
-    "index": 1118,
-    "id_item": "overspend_cb_1000_it",
-    "english": "overspend",
-    "list_mean": [
-      "tiêu quá khả năng của mình"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "22868880"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overtake_cb_1000_it.json",
-    "total": 1855,
-    "index": 1119,
-    "id_item": "overtake_cb_1000_it",
-    "english": "overtake",
-    "list_mean": [
-      "vượt"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "4175754"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/overthrow_cb_1000_it.json",
-    "total": 1855,
-    "index": 1120,
-    "id_item": "overthrow_cb_1000_it",
-    "english": "overthrow",
-    "list_mean": [
-      "lật đổ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1757927024"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/over_cb_1000_it.json",
-    "total": 1855,
-    "index": 1121,
-    "id_item": "over_cb_1000_it",
-    "english": "over",
-    "list_mean": [
-      "trên",
-      "bên trên",
-      "lên",
-      "trên khắp",
-      "về vấn đề gì",
-      "bằng; qua",
-      "trong suốt (thời gian)",
-      "trong khi",
-      "bên trên",
-      "đảo; lật",
-      "sang",
-      "xuống",
-      "trở lên",
-      "còn lại",
-      "khắp; toàn bộ",
-      "kết thúc",
-      "cú giao bóng",
-      "làm quá nhiều",
-      "trên đầu",
-      "áo khoác ngoài",
-      "lật đổ",
-      "vượt qua"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-428796289"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/owe_cb_1000_it.json",
-    "total": 1855,
-    "index": 1122,
-    "id_item": "owe_cb_1000_it",
-    "english": "owe",
-    "list_mean": [
-      "nợ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "11348"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/own_cb_1000_it.json",
-    "total": 1855,
-    "index": 1123,
-    "id_item": "own_cb_1000_it",
-    "english": "own",
-    "list_mean": [
-      "sở hữu",
-      "thừa nhận",
-      "của chính mình"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1185903006"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/oxygen_cb_1000_it.json",
-    "total": 1855,
-    "index": 1124,
-    "id_item": "oxygen_cb_1000_it",
-    "english": "oxygen",
-    "list_mean": [
-      "khí oxy"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-623983905"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/page_cb_1000_it.json",
-    "total": 1855,
-    "index": 1125,
-    "id_item": "page_cb_1000_it",
-    "english": "page",
-    "list_mean": [
-      "trang sách",
-      "cậu bé phục vụ tại khách sạn",
-      "tiểu đồng",
-      "gọi loa nhắn tin"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1500492319"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/painter_cb_1000_it.json",
-    "total": 1855,
-    "index": 1126,
-    "id_item": "painter_cb_1000_it",
-    "english": "painter",
-    "list_mean": [
-      "thợ sơn",
-      "hoạ sĩ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "198020654"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/painting_cb_1000_it.json",
-    "total": 1855,
-    "index": 1127,
-    "id_item": "painting_cb_1000_it",
-    "english": "painting",
-    "list_mean": [
-      "hội hoạ",
-      "bức hoạ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1084601499"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/paint_cb_1000_it.json",
-    "total": 1855,
-    "index": 1128,
-    "id_item": "paint_cb_1000_it",
-    "english": "paint",
-    "list_mean": [
-      "sơn",
-      "sơn",
-      "vẽ tranh"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "792179363"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pair_cb_1000_it.json",
-    "total": 1855,
-    "index": 1129,
-    "id_item": "pair_cb_1000_it",
-    "english": "pair",
-    "list_mean": [
-      "đôi",
-      "cái",
-      "cặp",
-      "ghép cặp"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1023752146"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/palm_cb_1000_it.json",
-    "total": 1855,
-    "index": 1130,
+    "total": 1808,
+    "index": 1100,
     "id_item": "palm_cb_1000_it",
     "english": "palm",
     "list_mean": [
@@ -460,8 +15,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/paper_cb_1000_it.json",
-    "total": 1855,
-    "index": 1131,
+    "total": 1808,
+    "index": 1101,
     "id_item": "paper_cb_1000_it",
     "english": "paper",
     "list_mean": [
@@ -477,8 +32,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/paragraph_cb_1000_it.json",
-    "total": 1855,
-    "index": 1132,
+    "total": 1808,
+    "index": 1102,
     "id_item": "paragraph_cb_1000_it",
     "english": "paragraph",
     "list_mean": [
@@ -490,8 +45,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/parallel_cb_1000_it.json",
-    "total": 1855,
-    "index": 1133,
+    "total": 1808,
+    "index": 1103,
     "id_item": "parallel_cb_1000_it",
     "english": "parallel",
     "list_mean": [
@@ -509,8 +64,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/parent_cb_1000_it.json",
-    "total": 1855,
-    "index": 1134,
+    "total": 1808,
+    "index": 1104,
     "id_item": "parent_cb_1000_it",
     "english": "parent",
     "list_mean": [
@@ -523,8 +78,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/parrot_cb_1000_it.json",
-    "total": 1855,
-    "index": 1135,
+    "total": 1808,
+    "index": 1105,
     "id_item": "parrot_cb_1000_it",
     "english": "parrot",
     "list_mean": [
@@ -536,8 +91,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/partake_cb_1000_it.json",
-    "total": 1855,
-    "index": 1136,
+    "total": 1808,
+    "index": 1106,
     "id_item": "partake_cb_1000_it",
     "english": "partake",
     "list_mean": [
@@ -549,8 +104,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/particularly_cb_1000_it.json",
-    "total": 1855,
-    "index": 1137,
+    "total": 1808,
+    "index": 1107,
     "id_item": "particularly_cb_1000_it",
     "english": "particularly",
     "list_mean": [
@@ -562,8 +117,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/particular_cb_1000_it.json",
-    "total": 1855,
-    "index": 1138,
+    "total": 1808,
+    "index": 1108,
     "id_item": "particular_cb_1000_it",
     "english": "particular",
     "list_mean": [
@@ -577,8 +132,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/partner_cb_1000_it.json",
-    "total": 1855,
-    "index": 1139,
+    "total": 1808,
+    "index": 1109,
     "id_item": "partner_cb_1000_it",
     "english": "partner",
     "list_mean": [
@@ -592,8 +147,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/party_cb_1000_it.json",
-    "total": 1855,
-    "index": 1140,
+    "total": 1808,
+    "index": 1110,
     "id_item": "party_cb_1000_it",
     "english": "party",
     "list_mean": [
@@ -608,8 +163,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/part_cb_1000_it.json",
-    "total": 1855,
-    "index": 1141,
+    "total": 1808,
+    "index": 1111,
     "id_item": "part_cb_1000_it",
     "english": "part",
     "list_mean": [
@@ -627,8 +182,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/passenger_cb_1000_it.json",
-    "total": 1855,
-    "index": 1142,
+    "total": 1808,
+    "index": 1112,
     "id_item": "passenger_cb_1000_it",
     "english": "passenger",
     "list_mean": [
@@ -640,8 +195,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/passionate_cb_1000_it.json",
-    "total": 1855,
-    "index": 1143,
+    "total": 1808,
+    "index": 1113,
     "id_item": "passionate_cb_1000_it",
     "english": "passionate",
     "list_mean": [
@@ -653,8 +208,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/passport_cb_1000_it.json",
-    "total": 1855,
-    "index": 1144,
+    "total": 1808,
+    "index": 1114,
     "id_item": "passport_cb_1000_it",
     "english": "passport",
     "list_mean": [
@@ -666,8 +221,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pass_cb_1000_it.json",
-    "total": 1855,
-    "index": 1145,
+    "total": 1808,
+    "index": 1115,
     "id_item": "pass_cb_1000_it",
     "english": "pass",
     "list_mean": [
@@ -691,8 +246,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/past_cb_1000_it.json",
-    "total": 1855,
-    "index": 1146,
+    "total": 1808,
+    "index": 1116,
     "id_item": "past_cb_1000_it",
     "english": "past",
     "list_mean": [
@@ -711,8 +266,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/path_cb_1000_it.json",
-    "total": 1855,
-    "index": 1147,
+    "total": 1808,
+    "index": 1117,
     "id_item": "path_cb_1000_it",
     "english": "path",
     "list_mean": [
@@ -725,8 +280,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/patient_cb_1000_it.json",
-    "total": 1855,
-    "index": 1148,
+    "total": 1808,
+    "index": 1118,
     "id_item": "patient_cb_1000_it",
     "english": "patient",
     "list_mean": [
@@ -739,8 +294,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pattern_cb_1000_it.json",
-    "total": 1855,
-    "index": 1149,
+    "total": 1808,
+    "index": 1119,
     "id_item": "pattern_cb_1000_it",
     "english": "pattern",
     "list_mean": [
@@ -754,8 +309,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pay_cb_1000_it.json",
-    "total": 1855,
-    "index": 1150,
+    "total": 1808,
+    "index": 1120,
     "id_item": "pay_cb_1000_it",
     "english": "pay",
     "list_mean": [
@@ -772,8 +327,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/penalty_cb_1000_it.json",
-    "total": 1855,
-    "index": 1151,
+    "total": 1808,
+    "index": 1121,
     "id_item": "penalty_cb_1000_it",
     "english": "penalty",
     "list_mean": [
@@ -786,8 +341,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pencil_cb_1000_it.json",
-    "total": 1855,
-    "index": 1152,
+    "total": 1808,
+    "index": 1122,
     "id_item": "pencil_cb_1000_it",
     "english": "pencil",
     "list_mean": [
@@ -800,8 +355,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pen_cb_1000_it.json",
-    "total": 1855,
-    "index": 1153,
+    "total": 1808,
+    "index": 1123,
     "id_item": "pen_cb_1000_it",
     "english": "pen",
     "list_mean": [
@@ -814,8 +369,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/people_cb_1000_it.json",
-    "total": 1855,
-    "index": 1154,
+    "total": 1808,
+    "index": 1124,
     "id_item": "people_cb_1000_it",
     "english": "people",
     "list_mean": [
@@ -829,8 +384,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/percentage_cb_1000_it.json",
-    "total": 1855,
-    "index": 1155,
+    "total": 1808,
+    "index": 1125,
     "id_item": "percentage_cb_1000_it",
     "english": "percentage",
     "list_mean": [
@@ -843,8 +398,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/percent_cb_1000_it.json",
-    "total": 1855,
-    "index": 1156,
+    "total": 1808,
+    "index": 1126,
     "id_item": "percent_cb_1000_it",
     "english": "percent",
     "list_mean": [
@@ -856,8 +411,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/perch_cb_1000_it.json",
-    "total": 1855,
-    "index": 1157,
+    "total": 1808,
+    "index": 1127,
     "id_item": "perch_cb_1000_it",
     "english": "perch",
     "list_mean": [
@@ -872,8 +427,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/perfectly_cb_1000_it.json",
-    "total": 1855,
-    "index": 1158,
+    "total": 1808,
+    "index": 1128,
     "id_item": "perfectly_cb_1000_it",
     "english": "perfectly",
     "list_mean": [
@@ -886,8 +441,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/performance_cb_1000_it.json",
-    "total": 1855,
-    "index": 1159,
+    "total": 1808,
+    "index": 1129,
     "id_item": "performance_cb_1000_it",
     "english": "performance",
     "list_mean": [
@@ -901,8 +456,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/performer_cb_1000_it.json",
-    "total": 1855,
-    "index": 1160,
+    "total": 1808,
+    "index": 1130,
     "id_item": "performer_cb_1000_it",
     "english": "performer",
     "list_mean": [
@@ -914,8 +469,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/perform_cb_1000_it.json",
-    "total": 1855,
-    "index": 1161,
+    "total": 1808,
+    "index": 1131,
     "id_item": "perform_cb_1000_it",
     "english": "perform",
     "list_mean": [
@@ -928,8 +483,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/perhaps_cb_1000_it.json",
-    "total": 1855,
-    "index": 1162,
+    "total": 1808,
+    "index": 1132,
     "id_item": "perhaps_cb_1000_it",
     "english": "perhaps",
     "list_mean": [
@@ -941,8 +496,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/perimeter_cb_1000_it.json",
-    "total": 1855,
-    "index": 1163,
+    "total": 1808,
+    "index": 1133,
     "id_item": "perimeter_cb_1000_it",
     "english": "perimeter",
     "list_mean": [
@@ -954,8 +509,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/period_cb_1000_it.json",
-    "total": 1855,
-    "index": 1164,
+    "total": 1808,
+    "index": 1134,
     "id_item": "period_cb_1000_it",
     "english": "period",
     "list_mean": [
@@ -970,8 +525,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/permit_cb_1000_it.json",
-    "total": 1855,
-    "index": 1165,
+    "total": 1808,
+    "index": 1135,
     "id_item": "permit_cb_1000_it",
     "english": "permit",
     "list_mean": [
@@ -984,22 +539,9 @@
     "hash_code_list_mean": "-28656280"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/persistent_cb_1000_it.json",
-    "total": 1855,
-    "index": 1166,
-    "id_item": "persistent_cb_1000_it",
-    "english": "persistent",
-    "list_mean": [
-      "bền bỉ/ dai dẳng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "162761348"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/personally_cb_1000_it.json",
-    "total": 1855,
-    "index": 1167,
+    "total": 1808,
+    "index": 1136,
     "id_item": "personally_cb_1000_it",
     "english": "personally",
     "list_mean": [
@@ -1012,8 +554,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/person_cb_1000_it.json",
-    "total": 1855,
-    "index": 1168,
+    "total": 1808,
+    "index": 1137,
     "id_item": "person_cb_1000_it",
     "english": "person",
     "list_mean": [
@@ -1026,8 +568,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/persuade_cb_1000_it.json",
-    "total": 1855,
-    "index": 1169,
+    "total": 1808,
+    "index": 1138,
     "id_item": "persuade_cb_1000_it",
     "english": "persuade",
     "list_mean": [
@@ -1039,35 +581,9 @@
     "hash_code_list_mean": "-1709188895"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pessimistic_cb_1000_it.json",
-    "total": 1855,
-    "index": 1170,
-    "id_item": "pessimistic_cb_1000_it",
-    "english": "pessimistic",
-    "list_mean": [
-      "bi quan"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-179856983"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/photographer_cb_1000_it.json",
-    "total": 1855,
-    "index": 1171,
-    "id_item": "photographer_cb_1000_it",
-    "english": "photographer",
-    "list_mean": [
-      "nhà nhiếp ảnh"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-2029066718"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/phrase_cb_1000_it.json",
-    "total": 1855,
-    "index": 1172,
+    "total": 1808,
+    "index": 1139,
     "id_item": "phrase_cb_1000_it",
     "english": "phrase",
     "list_mean": [
@@ -1081,8 +597,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/piano_cb_1000_it.json",
-    "total": 1855,
-    "index": 1173,
+    "total": 1808,
+    "index": 1140,
     "id_item": "piano_cb_1000_it",
     "english": "piano",
     "list_mean": [
@@ -1094,8 +610,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pick_cb_1000_it.json",
-    "total": 1855,
-    "index": 1174,
+    "total": 1808,
+    "index": 1141,
     "id_item": "pick_cb_1000_it",
     "english": "pick",
     "list_mean": [
@@ -1113,8 +629,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/picture_cb_1000_it.json",
-    "total": 1855,
-    "index": 1175,
+    "total": 1808,
+    "index": 1142,
     "id_item": "picture_cb_1000_it",
     "english": "picture",
     "list_mean": [
@@ -1132,8 +648,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/piece_cb_1000_it.json",
-    "total": 1855,
-    "index": 1176,
+    "total": 1808,
+    "index": 1143,
     "id_item": "piece_cb_1000_it",
     "english": "piece",
     "list_mean": [
@@ -1149,8 +665,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pig_cb_1000_it.json",
-    "total": 1855,
-    "index": 1177,
+    "total": 1808,
+    "index": 1144,
     "id_item": "pig_cb_1000_it",
     "english": "pig",
     "list_mean": [
@@ -1163,8 +679,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pillow_cb_1000_it.json",
-    "total": 1855,
-    "index": 1178,
+    "total": 1808,
+    "index": 1145,
     "id_item": "pillow_cb_1000_it",
     "english": "pillow",
     "list_mean": [
@@ -1177,8 +693,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pilot_cb_1000_it.json",
-    "total": 1855,
-    "index": 1179,
+    "total": 1808,
+    "index": 1146,
     "id_item": "pilot_cb_1000_it",
     "english": "pilot",
     "list_mean": [
@@ -1193,8 +709,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pitch_cb_1000_it.json",
-    "total": 1855,
-    "index": 1180,
+    "total": 1808,
+    "index": 1147,
     "id_item": "pitch_cb_1000_it",
     "english": "pitch",
     "list_mean": [
@@ -1217,8 +733,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/place_cb_1000_it.json",
-    "total": 1855,
-    "index": 1181,
+    "total": 1808,
+    "index": 1148,
     "id_item": "place_cb_1000_it",
     "english": "place",
     "list_mean": [
@@ -1243,8 +759,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/placid_cb_1000_it.json",
-    "total": 1855,
-    "index": 1182,
+    "total": 1808,
+    "index": 1149,
     "id_item": "placid_cb_1000_it",
     "english": "placid",
     "list_mean": [
@@ -1256,8 +772,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plain_cb_1000_it.json",
-    "total": 1855,
-    "index": 1183,
+    "total": 1808,
+    "index": 1150,
     "id_item": "plain_cb_1000_it",
     "english": "plain",
     "list_mean": [
@@ -1275,8 +791,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/planet_cb_1000_it.json",
-    "total": 1855,
-    "index": 1184,
+    "total": 1808,
+    "index": 1151,
     "id_item": "planet_cb_1000_it",
     "english": "planet",
     "list_mean": [
@@ -1288,8 +804,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plane_cb_1000_it.json",
-    "total": 1855,
-    "index": 1185,
+    "total": 1808,
+    "index": 1152,
     "id_item": "plane_cb_1000_it",
     "english": "plane",
     "list_mean": [
@@ -1307,8 +823,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plant_cb_1000_it.json",
-    "total": 1855,
-    "index": 1186,
+    "total": 1808,
+    "index": 1153,
     "id_item": "plant_cb_1000_it",
     "english": "plant",
     "list_mean": [
@@ -1326,8 +842,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plan_cb_1000_it.json",
-    "total": 1855,
-    "index": 1187,
+    "total": 1808,
+    "index": 1154,
     "id_item": "plan_cb_1000_it",
     "english": "plan",
     "list_mean": [
@@ -1344,8 +860,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plaster_cb_1000_it.json",
-    "total": 1855,
-    "index": 1188,
+    "total": 1808,
+    "index": 1155,
     "id_item": "plaster_cb_1000_it",
     "english": "plaster",
     "list_mean": [
@@ -1361,8 +877,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plate_cb_1000_it.json",
-    "total": 1855,
-    "index": 1189,
+    "total": 1808,
+    "index": 1156,
     "id_item": "plate_cb_1000_it",
     "english": "plate",
     "list_mean": [
@@ -1379,22 +895,9 @@
     "hash_code_list_mean": "1844843400"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/player_cb_1000_it.json",
-    "total": 1855,
-    "index": 1190,
-    "id_item": "player_cb_1000_it",
-    "english": "player",
-    "list_mean": [
-      "người chơi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1172587945"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/play_cb_1000_it.json",
-    "total": 1855,
-    "index": 1191,
+    "total": 1808,
+    "index": 1157,
     "id_item": "play_cb_1000_it",
     "english": "play",
     "list_mean": [
@@ -1419,8 +922,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plead_cb_1000_it.json",
-    "total": 1855,
-    "index": 1192,
+    "total": 1808,
+    "index": 1158,
     "id_item": "plead_cb_1000_it",
     "english": "plead",
     "list_mean": [
@@ -1434,8 +937,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/please_cb_1000_it.json",
-    "total": 1855,
-    "index": 1193,
+    "total": 1808,
+    "index": 1159,
     "id_item": "please_cb_1000_it",
     "english": "please",
     "list_mean": [
@@ -1449,8 +952,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plucky_cb_1000_it.json",
-    "total": 1855,
-    "index": 1194,
+    "total": 1808,
+    "index": 1160,
     "id_item": "plucky_cb_1000_it",
     "english": "plucky",
     "list_mean": [
@@ -1462,8 +965,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plug_cb_1000_it.json",
-    "total": 1855,
-    "index": 1195,
+    "total": 1808,
+    "index": 1161,
     "id_item": "plug_cb_1000_it",
     "english": "plug",
     "list_mean": [
@@ -1477,8 +980,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plum_cb_1000_it.json",
-    "total": 1855,
-    "index": 1196,
+    "total": 1808,
+    "index": 1162,
     "id_item": "plum_cb_1000_it",
     "english": "plum",
     "list_mean": [
@@ -1490,8 +993,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plural_cb_1000_it.json",
-    "total": 1855,
-    "index": 1197,
+    "total": 1808,
+    "index": 1163,
     "id_item": "plural_cb_1000_it",
     "english": "plural",
     "list_mean": [
@@ -1503,8 +1006,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/plus_cb_1000_it.json",
-    "total": 1855,
-    "index": 1198,
+    "total": 1808,
+    "index": 1164,
     "id_item": "plus_cb_1000_it",
     "english": "plus",
     "list_mean": [
@@ -1518,8 +1021,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/poach_cb_1000_it.json",
-    "total": 1855,
-    "index": 1199,
+    "total": 1808,
+    "index": 1165,
     "id_item": "poach_cb_1000_it",
     "english": "poach",
     "list_mean": [
@@ -1529,5 +1032,534 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1867898486"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/point_cb_1000_it.json",
+    "total": 1808,
+    "index": 1166,
+    "id_item": "point_cb_1000_it",
+    "english": "point",
+    "list_mean": [
+      "đầu nhọn",
+      "mũi đất",
+      "dấu chấm",
+      "vị trí xác định",
+      "thời điểm nhất định",
+      "nhiệt độ",
+      "điểm trên la bàn",
+      "điểm thi đấu",
+      "vấn đề",
+      "mục đích",
+      "nét tính cách, phẩm chất của con người",
+      "ổ cắm điện",
+      "chĩa",
+      "chỉ hướng",
+      "vá, lấp"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2093755789"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/poisonous_cb_1000_it.json",
+    "total": 1808,
+    "index": 1167,
+    "id_item": "poisonous_cb_1000_it",
+    "english": "poisonous",
+    "list_mean": [
+      "có độc"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1234805142"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/polite_cb_1000_it.json",
+    "total": 1808,
+    "index": 1168,
+    "id_item": "polite_cb_1000_it",
+    "english": "polite",
+    "list_mean": [
+      "lịch sự"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-493983207"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/politician_cb_1000_it.json",
+    "total": 1808,
+    "index": 1169,
+    "id_item": "politician_cb_1000_it",
+    "english": "politician",
+    "list_mean": [
+      "chính trị gia"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-789926899"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pollute_cb_1000_it.json",
+    "total": 1808,
+    "index": 1170,
+    "id_item": "pollute_cb_1000_it",
+    "english": "pollute",
+    "list_mean": [
+      "ô nhiễm"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1471270294"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pond_cb_1000_it.json",
+    "total": 1808,
+    "index": 1171,
+    "id_item": "pond_cb_1000_it",
+    "english": "pond",
+    "list_mean": [
+      "cái ao"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1249727166"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pony_cb_1000_it.json",
+    "total": 1808,
+    "index": 1172,
+    "id_item": "pony_cb_1000_it",
+    "english": "pony",
+    "list_mean": [
+      "ngựa nhỏ pony"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1514513483"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pool_cb_1000_it.json",
+    "total": 1808,
+    "index": 1173,
+    "id_item": "pool_cb_1000_it",
+    "english": "pool",
+    "list_mean": [
+      "vũng nước",
+      "vũng",
+      "vực",
+      "bể bơi",
+      "vốn chung",
+      "góp vốn chung"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1507013558"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/poor_cb_1000_it.json",
+    "total": 1808,
+    "index": 1174,
+    "id_item": "poor_cb_1000_it",
+    "english": "poor",
+    "list_mean": [
+      "nghèo",
+      "kém; tồi",
+      "đáng thương"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1227881300"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/popular_cb_1000_it.json",
+    "total": 1808,
+    "index": 1175,
+    "id_item": "popular_cb_1000_it",
+    "english": "popular",
+    "list_mean": [
+      "nổi tiếng",
+      "phổ biến",
+      "thuộc nhân dân",
+      "bình dân"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-749115458"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/populate_cb_1000_it.json",
+    "total": 1808,
+    "index": 1176,
+    "id_item": "populate_cb_1000_it",
+    "english": "populate",
+    "list_mean": [
+      "đến định cư"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1393194136"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pop_cb_1000_it.json",
+    "total": 1808,
+    "index": 1177,
+    "id_item": "pop_cb_1000_it",
+    "english": "pop",
+    "list_mean": [
+      "tiếng nổ bốp",
+      "đồ uống có ga",
+      "nổ",
+      "hấp háy",
+      "ù đi",
+      "cất nhanh",
+      "nhạc pop",
+      "thuộc nhạc pop"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1636031022"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/porter_cb_1000_it.json",
+    "total": 1808,
+    "index": 1178,
+    "id_item": "porter_cb_1000_it",
+    "english": "porter",
+    "list_mean": [
+      "người khuân vác hành lý",
+      "phu khuân vác",
+      "người gác cổng; bảo vệ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2117927819"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/port_cb_1000_it.json",
+    "total": 1808,
+    "index": 1179,
+    "id_item": "port_cb_1000_it",
+    "english": "port",
+    "list_mean": [
+      "bến cảng",
+      "thành phố cảng",
+      "mạn trái, cánh trái",
+      "rượu van ỏ Bồ Đào Nha"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2079562682"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pose_cb_1000_it.json",
+    "total": 1808,
+    "index": 1180,
+    "id_item": "pose_cb_1000_it",
+    "english": "pose",
+    "list_mean": [
+      "tư thế",
+      "điệu bộ giả tạo",
+      "tạo dáng",
+      "làm ra vẻ",
+      "đưa ra câu hỏi"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "901723292"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/position_cb_1000_it.json",
+    "total": 1808,
+    "index": 1181,
+    "id_item": "position_cb_1000_it",
+    "english": "position",
+    "list_mean": [
+      "tư thế",
+      "vị trí",
+      "địa vị",
+      "quan điểm",
+      "đặt"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "323494797"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/possess_cb_1000_it.json",
+    "total": 1808,
+    "index": 1182,
+    "id_item": "possess_cb_1000_it",
+    "english": "possess",
+    "list_mean": [
+      "sở hữu; có"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "856638094"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/possible_cb_1000_it.json",
+    "total": 1808,
+    "index": 1183,
+    "id_item": "possible_cb_1000_it",
+    "english": "possible",
+    "list_mean": [
+      "có thể",
+      "hợp lý"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2056969662"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/poster_cb_1000_it.json",
+    "total": 1808,
+    "index": 1184,
+    "id_item": "poster_cb_1000_it",
+    "english": "poster",
+    "list_mean": [
+      "áp phích"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1365604984"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/postgraduate_cb_1000_it.json",
+    "total": 1808,
+    "index": 1185,
+    "id_item": "postgraduate_cb_1000_it",
+    "english": "postgraduate",
+    "list_mean": [
+      "sau đại học",
+      "sinh viên cao học"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1963354873"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pound_cb_1000_it.json",
+    "total": 1808,
+    "index": 1186,
+    "id_item": "pound_cb_1000_it",
+    "english": "pound",
+    "list_mean": [
+      "đồng bảng",
+      "đơn vị cân nặng pound = 0,454 kilograms",
+      "chỗ nhốt súc vật đi lạc",
+      "đánh mạnh",
+      "chạy rầm rập",
+      "giã"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2092681330"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pour_cb_1000_it.json",
+    "total": 1808,
+    "index": 1187,
+    "id_item": "pour_cb_1000_it",
+    "english": "pour",
+    "list_mean": [
+      "đổ",
+      "mưa như trút"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1536497471"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/power_cb_1000_it.json",
+    "total": 1808,
+    "index": 1188,
+    "id_item": "power_cb_1000_it",
+    "english": "power",
+    "list_mean": [
+      "khả năng",
+      "sức mạnh",
+      "quyền lực",
+      "quyền hạn",
+      "thế lực",
+      "cường quốc",
+      "luỹ thừa"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1581212517"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/practice_cb_1000_it.json",
+    "total": 1808,
+    "index": 1189,
+    "id_item": "practice_cb_1000_it",
+    "english": "practice",
+    "list_mean": [
+      "thực hành",
+      "thói quen",
+      "luyện tập",
+      "sự hành nghề"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1650302904"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/predict_cb_1000_it.json",
+    "total": 1808,
+    "index": 1190,
+    "id_item": "predict_cb_1000_it",
+    "english": "predict",
+    "list_mean": [
+      "dự đoán"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2027059965"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/prefer_cb_1000_it.json",
+    "total": 1808,
+    "index": 1191,
+    "id_item": "prefer_cb_1000_it",
+    "english": "prefer",
+    "list_mean": [
+      "thích hơn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "173734258"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/prepare_cb_1000_it.json",
+    "total": 1808,
+    "index": 1192,
+    "id_item": "prepare_cb_1000_it",
+    "english": "prepare",
+    "list_mean": [
+      "chuẩn bị"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "562344755"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/presentation_cb_1000_it.json",
+    "total": 1808,
+    "index": 1193,
+    "id_item": "presentation_cb_1000_it",
+    "english": "presentation",
+    "list_mean": [
+      "sự trình diễn; sự trưng bày",
+      "cách trình bày",
+      "sự trình diễn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-286164014"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/present_cb_1000_it.json",
+    "total": 1808,
+    "index": 1194,
+    "id_item": "present_cb_1000_it",
+    "english": "present",
+    "list_mean": [
+      "có mặt",
+      "hiện tại",
+      "thời hiện tại",
+      "tặng",
+      "giới thiệu",
+      "trình diễn; trình chiếu",
+      "trình bày",
+      "xuất hiện",
+      "món quà"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "990211812"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/preservation_cb_1000_it.json",
+    "total": 1808,
+    "index": 1195,
+    "id_item": "preservation_cb_1000_it",
+    "english": "preservation",
+    "list_mean": [
+      "sự giữ gìn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "39450163"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/preserve_cb_1000_it.json",
+    "total": 1808,
+    "index": 1196,
+    "id_item": "preserve_cb_1000_it",
+    "english": "preserve",
+    "list_mean": [
+      "bảo vệ",
+      "lưu giữ",
+      "bảo quản",
+      "lĩnh vực hoạt động riêng biệt",
+      "khu vực bảo tồn",
+      "mứt"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1796435336"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/press_cb_1000_it.json",
+    "total": 1808,
+    "index": 1197,
+    "id_item": "press_cb_1000_it",
+    "english": "press",
+    "list_mean": [
+      "nhấn",
+      "ép",
+      "thúc giục",
+      "nén chặt",
+      "là phẳng",
+      "sự là",
+      "máy in",
+      "báo chí",
+      "giới báo chí",
+      "máy ép"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1298983249"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pretty_cb_1000_it.json",
+    "total": 1808,
+    "index": 1198,
+    "id_item": "pretty_cb_1000_it",
+    "english": "pretty",
+    "list_mean": [
+      "xinh xắn; đẹp",
+      "hay ho gớm",
+      "khá"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1612124516"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/prevent_cb_1000_it.json",
+    "total": 1808,
+    "index": 1199,
+    "id_item": "prevent_cb_1000_it",
+    "english": "prevent",
+    "list_mean": [
+      "ngăn chặn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1013385417"
   }
 ]
